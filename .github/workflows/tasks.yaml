@@ -3,13 +3,14 @@ on:
   push:
   schedule:
    - cron: '* */12 * * *'
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     
     - name: build
-      uses: minoplhy/filters-converter@github-actions-init
+      uses: minoplhy/filters-maker@main
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_KEY }}
       with:

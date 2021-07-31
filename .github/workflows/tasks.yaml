@@ -1,0 +1,24 @@
+name: Tasks
+on:
+  push:
+  Schedule:
+   - cron: * */12 * * *
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: build
+      uses: minoplhy/filters-converter@github-actions-init
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_KEY }}
+      with:
+        Destination_NAME: "filters"
+        Destination_REPO: "minoplhy/filters"
+        Destination_VERSION: "Uncategory"
+        site4: "https://invaild.kylz.nl"
+        GIT_NAME: "HurBar"
+        GIT_EMAIL: "Hurbar@m21.kylz.nl"
+        REPO_BRANCH: "Main"
+    - name: Checkout
+      uses: actions/checkout@v2

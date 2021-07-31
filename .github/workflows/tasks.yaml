@@ -1,8 +1,8 @@
 name: Tasks
 on:
   push:
-  Schedule:
-   - cron: * */12 * * *
+  schedule:
+   - cron: '* */12 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest

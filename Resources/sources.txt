@@ -1,0 +1,8 @@
+https://dbl.oisd.nl/
+https://hosts.netlify.app/Pro/rpz.txt
+https://filters.kylz.nl/RPZ/stevenblack/f-s.txt
+https://filters.kylz.nl/RPZ/adguard/dns.txt
+https://filters.kylz.nl/RPZ/adguard/cname-tracker.txt
+https://filters.kylz.nl/RPZ/adguard/cname-original.txt
+https://filters.kylz.nl/RPZ/stevenblack/f-s.txt
+https://filters.kylz.nl/RPZ/someonewhocares/rpz.txt

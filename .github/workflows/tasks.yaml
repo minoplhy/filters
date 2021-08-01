@@ -1,6 +1,5 @@
 name: Tasks
 on:
-  push:
   schedule:
    - cron: '* */12 * * *'
   workflow_dispatch:

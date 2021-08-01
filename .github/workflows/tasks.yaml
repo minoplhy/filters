@@ -17,7 +17,7 @@ jobs:
         Destination_NAME: "filters"
         Destination_UNAME: "minoplhy"
         Destination_REPO: "filters"
-        Destination_VERSION: "Uncategory"
+        Destination_VERSION: "Private-Build"
         GIT_NAME: "HurBar"
         GIT_EMAIL: "Hurbar@m21.kylz.nl"
         REPO_BRANCH: "main"

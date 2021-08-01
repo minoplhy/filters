@@ -12,13 +12,14 @@ jobs:
     - name: build
       uses: minoplhy/filters-maker@main
       env:
-        API_TOKEN_GITHUB: ${{ secrets.API_KEY }}
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
         Destination_NAME: "filters"
-        Destination_REPO: "minoplhy/filters"
+        Destination_UNAME: "minoplhy"
+        Destination_REPO: "filters"
         Destination_VERSION: "Uncategory"
         GIT_NAME: "HurBar"
         GIT_EMAIL: "Hurbar@m21.kylz.nl"
-        REPO_BRANCH: "Main"
+        REPO_BRANCH: "main"
     - name: Checkout
       uses: actions/checkout@v2

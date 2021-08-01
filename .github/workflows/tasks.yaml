@@ -22,5 +22,3 @@ jobs:
         GIT_NAME: "HurBar"
         GIT_EMAIL: "Hurbar@m21.kylz.nl"
         REPO_BRANCH: "main"
-    - name: Checkout
-      uses: actions/checkout@v2

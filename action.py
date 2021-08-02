@@ -21,5 +21,6 @@ crawler.download_filters("https://github.com/easylist/easylist/raw/master/easyli
 crawler.filtering(incoming)
 crawler.filteringcon(incoming)
 crawler.killingdup(incoming)
+crawler.excluded(excluded, incoming)
 maker_rpz.RPZbuilding(excluded, incoming, rpz_locat)
 maker_domains.domainsbuilding(excluded, incoming)

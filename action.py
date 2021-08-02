@@ -1,3 +1,6 @@
+import sys
+sys.path.append('/filters-maker')
+
 import crawler
 import maker_rpz
 import maker_domains

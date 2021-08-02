@@ -18,6 +18,7 @@ jobs:
         Destination_REPO: "filters"
         Destination_FOLDER: "Private-build"
         Destination_VERSION: "ucate"
+        ACTION_NAME: "action.py"
         GIT_NAME: "HurBar"
         GIT_EMAIL: "Hurbar@m21.kylz.nl"
         REPO_BRANCH: "main"

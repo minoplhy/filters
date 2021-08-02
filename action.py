@@ -1,6 +1,3 @@
-import sys
-export PYTHONPATH=$PYTHONPATH:/filters-maker
-  
 import crawler
 import maker_rpz
 import maker_domains

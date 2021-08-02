@@ -6,3 +6,4 @@ https://filters.kylz.nl/RPZ/adguard/cname-tracker.txt
 https://filters.kylz.nl/RPZ/adguard/cname-original.txt
 https://filters.kylz.nl/RPZ/stevenblack/f-s.txt
 https://filters.kylz.nl/RPZ/someonewhocares/rpz.txt
+https://github.com/easylist/easylist/raw/master/easylist/easylist_adservers.txt

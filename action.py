@@ -5,9 +5,9 @@ import crawler
 import maker_rpz
 import maker_domains
 
-incoming = '/repros/$INPUT_DESTINATION_FOLDER/$INPUT_DESTINATION_VERSION/domains.txt'
+incoming = '/repros/$INPUT_DESTINATION_FOLDER/'$INPUT_DESTINATION_VERSION'/domains.txt'
 excluded = '/repros/Resources/excluded.txt'
-rpz_locat = '/repros/$INPUT_DESTINATION_FOLDER/$INPUT_DESTINATION_VERSION/rpz.txt'
+rpz_locat = '/repros/'$INPUT_DESTINATION_FOLDER'/'$INPUT_DESTINATION_VERSION'/rpz.txt'
 
 crawler.download_filters("https://dbl.oisd.nl/" ,incoming)
 crawler.download_filters("https://hosts.netlify.app/Pro/rpz.txt" ,incoming)

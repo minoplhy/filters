@@ -1,6 +1,6 @@
 import sys
-sys.path.insert(0, '/filters-maker')
-
+export PYTHONPATH=$PYTHONPATH:/filters-maker
+  
 import crawler
 import maker_rpz
 import maker_domains

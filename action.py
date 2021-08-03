@@ -9,6 +9,7 @@ incoming = "/repros/Private-build/ucate/domains.txt"
 excluded = "/repros/Resources/excluded.txt"
 rpz_locat = "/repros/Private-build/ucate/rpz.txt"
 
+crawler.clear_old_files(incoming)
 crawler.download_filters("https://dbl.oisd.nl/" ,incoming)
 crawler.download_filters("https://hosts.netlify.app/Pro/rpz.txt" ,incoming)
 crawler.download_filters("https://filters.kylz.nl/RPZ/adguard/dns.txt" ,incoming)

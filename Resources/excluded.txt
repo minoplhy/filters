@@ -1,3 +1,5 @@
+*.gvt1.com
+*.play.googleapis.com
 0-edge-chat.facebook.com
 0.africa.pool.ntp.org
 0.arch.pool.ntp.org
@@ -1490,6 +1492,11 @@ ascii.co.uk
 ash.to
 ashampoo.com
 ashiato.rakuten.co.jp
+asia-st-sysupgrade.vivoglobal.com
+asia-sysupakdl.vivoglobal.com
+asia-sysupawdl.vivoglobal.com
+asia-sysupgrade-api.vivoglobal.com
+asia-sysupwsdl.vivoglobal.com
 asia.playstation.com
 asia.pool.ntp.org
 asiandrama.chia-anime.tv
@@ -1907,6 +1914,7 @@ blogspot.jp
 blogspot.l.googleusercontent.com
 bloomberg.com
 bls.gov
+blueangelhost.com
 bluebillywig.com
 bluehost.com
 bmj.com
@@ -3478,6 +3486,7 @@ exacttarget.com
 examiner.com
 example.com
 example.org
+exappupgrade.vivoglobal.com
 exblog.jp
 exceptions.coinbase.com
 exchange.coinbase.com
@@ -4491,6 +4500,7 @@ hollywoodreporter.com
 home.bt.com
 home.hulu.com
 home.mi.com
+home.neustar
 home.pl
 home.playstation.com
 home.plus.google.com
@@ -5102,6 +5112,7 @@ jr.static.xiaomi.net
 js-agent.newrelic.com
 js-sec.indexww.com
 js.api.here.com
+js.braintreegateway.com
 js.data.auto.qq.com
 js.hsforms.net
 js.indexww.com
@@ -5136,6 +5147,8 @@ ke.me
 keen.io
 keep.line.me
 keepalive.gotinder.com
+keepass.info
+keepassdx.com
 keepersecurity.com
 keepimg.com
 keiba.rakuten.co.jp
@@ -5432,6 +5445,7 @@ locationiq.com
 loccitane.com
 lockurl.com
 lodz.tvp.pl
+log-upload-os.mihoyo.com
 log.entrance.sonymobile.com
 logback.qos.ch
 logbuch-netzpolitik.de
@@ -5800,6 +5814,7 @@ marketplace-origin.xbox.com
 marketplace.xbox.com
 marketwatch.com
 markitcdn.com
+markmonitor.com
 marktplaats.nl
 marriott.com
 marx.libcom.org
@@ -5940,7 +5955,6 @@ miibeian.gov.cn
 miitbeian.gov.cn
 mijndomein.nl
 milink.pandora.xiaomi.com
-mimc.chat.xiaomi.net
 mimecast.com
 mimobile.esim.mihome.xiaomi.net
 minapp.com
@@ -6996,6 +7010,7 @@ profile.api.playstation.com
 profile.blog.naver.com
 profile.citrix.com
 profile.d.xiaomi.net
+profile.line-scdn.net
 profile.line.scdn.net
 profile.target.com
 profit.ndtv.com
@@ -7917,6 +7932,7 @@ sonymobile.com
 sonynetworkentertain.tt.omtrdc.net
 sonyselect-api.sonymobile.com
 soporte.latam.playstation.com
+sos-ch-dk-2.exo.io
 soso.com
 soundcaptcha.naver.com
 soundcheck.soundcloud.com
@@ -8050,6 +8066,7 @@ startpage.com
 stat.download.xunlei.com
 stat.moneycontrol.co.in
 stat.pandora.xiaomi.com
+stat.ripe.net
 stat1.moneycontrol.com
 stat2.moneycontrol.com
 stat3.moneycontrol.com
@@ -8360,6 +8377,7 @@ syndication.twimg.com
 syndication.twitter.com
 synology.com
 sysctl.org
+sysupgrade-api.vivoglobal.com
 sytes.net
 syurl.com
 szczecin.tvp.pl
@@ -9166,6 +9184,7 @@ webapps.entrance.sonymobile.com
 webappstatic.buzzfeed.com
 webcache.googleusercontent.com
 webcollage.net
+webcrawler.com
 webdisk.sitcomsonline.com
 webgrab.wechat.com
 webhostingtalk.com
@@ -9407,7 +9426,6 @@ www.airtable.com
 www.alcohol-soft.com
 www.alexa.com
 www.algolia.com
-www.algolia.com
 www.alibaba.com
 www.alicdn.com
 www.aliexpress.com
@@ -9520,6 +9538,7 @@ www.blockadblock.com
 www.blog.medium.com
 www.blog.techrepublic.com
 www.blogs.techrepublic.com
+www.blueangelhost.com
 www.bnc.lt
 www.boldchat.com
 www.booking.com
@@ -9799,7 +9818,6 @@ www.google.al
 www.google.am
 www.google.as
 www.google.at
-www.google.az
 www.google.ba
 www.google.be
 www.google.bf
@@ -10033,6 +10051,7 @@ www.hj-story.com
 www.hollywood.com
 www.hollywoodlife.com
 www.home.bt.com
+www.home.neustar
 www.hostgator.com
 www.hosts-file.net
 www.hostsfile.org
@@ -10111,6 +10130,7 @@ www.kano.is
 www.kaspersky.com
 www.kcsoftwares.com
 www.keen.io
+www.keepass.info
 www.keepersecurity.com
 www.keycdn.com
 www.kickstarter.com
@@ -10608,6 +10628,8 @@ www.washoeschools.net
 www.weather.com
 www.weather.gov
 www.web-development-blog.com
+www.webcrawler.commimc.chat.xiaomi.net
+www.webcrawler.comwww.google.az
 www.webhostingtalk.com
 www.webmd.com
 www.webopedia.com

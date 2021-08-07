@@ -5,9 +5,9 @@ import crawler
 import maker_rpz
 import maker_domains
 
-incoming = "/repros/Private-build/ucate/domains.txt"
+incoming = "/reprwiki/Private-build/ucate/domains.txt"
 excluded = "/repros/Resources/excluded.txt"
-rpz_locat = "/repros/Private-build/ucate/rpz.txt"
+rpz_locat = "/reprwiki/Private-build/ucate/domains.txt"
 
 crawler.clear_old_files(incoming)
 crawler.download_filters("https://dbl.oisd.nl/" ,incoming)

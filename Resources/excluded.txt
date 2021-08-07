@@ -27,7 +27,7 @@
 0.ru.pool.ntp.org
 0.se.pool.ntp.org
 0.sonostime.pool.ntp.org
-0.tcp.ap.ngrok.iowww.tomshardware.com
+0.tcp.ap.ngrok.io
 0.ubuntu.pool.ntp.org
 0.uk.pool.ntp.org
 0.us.pool.ntp.org
@@ -153,6 +153,7 @@
 4shared.com
 5-edge-chat.facebook.com
 500px.com
+5471782.fls.doubleclick.net
 58.com
 58pic.com
 6-edge-chat.facebook.com
@@ -367,6 +368,7 @@ adollo.com
 ador.com
 adrise.tv
 ads.google.com
+ads.tdbank.com
 adsp.xunlei.com
 adv.sec.miui.com
 advanceautoparts.com
@@ -2517,6 +2519,7 @@ cliphunter.com
 clips-media-assets2.twitch.tv
 clips.twitch.tv
 cliqz.com
+clk*.tradedoubler.com
 clk.ink
 clkmg.com
 cloud.gsdk.proximabeta.com
@@ -2543,6 +2546,7 @@ cm-01-ams1.cm.steampowered.com
 cm-02-ams1.cm.steampowered.com
 cm-03-ams1.cm.steampowered.com
 cm-04-ams1.cm.steampowered.com
+cm-widget.nakanohito.jp
 cm1-par1.cm.steampowered.com
 cm1-sto1.cm.steampowered.com
 cm2-par1.cm.steampowered.com
@@ -6330,6 +6334,7 @@ nij.org
 nike.com
 nil.naver.com
 nine.plugins.plexapp.com
+nineto5mac-d.openx.net
 nipr.com
 nircmd.nirsoft.net
 nirsoft.net
@@ -6535,6 +6540,7 @@ olx.ua
 olymptrade.com
 om.cbsi.com
 omn.sonypictures.com
+omniture.walmart.com
 on.playstation.com
 on.recode.net
 on.soundcloud.com
@@ -7226,6 +7232,7 @@ redditmedia.com
 redditstatic.com
 redfin.com
 rediff.com
+redir.tradedoubler.com
 redirect.dealabs.com
 redirect.kaspersky.com
 redirect.viglink.com
@@ -8253,6 +8260,7 @@ storify.com
 story.snapchat.com
 storyfunding.daum.net
 storysharing.snapchat.com
+str.hit.gemius.pl
 straitstimes.com
 strangled.net
 stratus.soundcloud.com
@@ -8610,6 +8618,7 @@ tr.wikipedia.com
 track.bpost.be
 track.nzz.ch
 track.rediff.com
+track.rutarget.ru
 track.ucas.com
 tracker.opentrackr.org
 tracking.feedpress.it
@@ -10556,6 +10565,7 @@ www.threatcrowd.org
 www.thumbzilla.com
 www.tiktok.com
 www.tmublr.com
+www.tomshardware.com
 www.toptenreviews.com
 www.torlock.com
 www.torproject.org

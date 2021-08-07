@@ -69,6 +69,7 @@
 163.com
 1688.com
 17track.net
+1984.is
 1and1.com
 1and1.fr
 1dot0dot0dot1.cloudflare-dns.com
@@ -3138,6 +3139,7 @@ docs.brightcove.com
 docs.bugsnag.com
 docs.exchange.coinbase.com
 docs.fabric.io
+docs.gitea.io
 docs.google.com
 docs.notepad-plus-plus.org
 docs.playstation.com
@@ -4039,6 +4041,8 @@ giphy.com
 gist.github.com
 gist.githubusercontent.com
 git.io
+gitea.com
+gitea.io
 github.com
 github.hubspot.com
 github.io
@@ -5047,6 +5051,7 @@ is.gd
 is.hide.me
 iservice.fuzelfiles.com
 islamweb.net
+isnic.is
 issa.be
 issuu.com
 istockphoto.com
@@ -5227,6 +5232,7 @@ klaviyo.com
 km.gravatar.com
 kmart.com
 kn.gravatar.com
+knot-resolver.cz
 knowyourmeme.com
 ko-kr.about.flipboard.com
 ko-kr.staging-about.flipboard.com
@@ -8717,6 +8723,7 @@ truste.com
 trusted.kaspersky.com
 trustlist.adobe.com
 trustpilot.com
+try.gitea.io
 ts.my
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tuasaude.com

@@ -184,6 +184,7 @@ a-airasia-001-gyf12.insnw.net
 a-msedge.net
 a-v2.sndcdn.com
 a-v2.x.sndcdn.com
+a.adwolf.ru
 a.apkpure.com
 a.config.skype.com
 a.espncdn.com
@@ -192,6 +193,7 @@ a.hl.mi.com
 a.huodong.mi.com
 a.kickass.to
 a.ooyala.com
+a.sellpoint.net
 a.shifen.com
 a.stat.xiaomi.com
 a.tiles.mapbox.com
@@ -227,6 +229,7 @@ abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
 abuse.ch
 ac.duckduckgo.com
+ac.ebis.ne.jp
 ac.search.naver.com
 ac0-edge-chat.facebook.com
 academia.edu
@@ -347,6 +350,7 @@ admin.blog.naver.com
 admin.brightcove.com
 admin.ch
 admin.citruspay.com
+admin.dable.io
 admin.funimation.com
 admin.integration.viber.com
 admin.nsatc.net
@@ -387,6 +391,7 @@ aeu.alicdn.com
 affiliate-program.amazon.com
 affiliate.hitbtc.com
 affiliate.twitch.tv
+afi-b.com
 africa.pool.ntp.org
 aftonbladet.se
 agilean.in
@@ -1375,6 +1380,7 @@ app-ru.huawei.com
 app-uk.huawei.com
 app.adjust.com
 app.alipay.com
+app.appsflyer.com
 app.bemyeyes.com
 app.bilibili.com
 app.box.com
@@ -1487,6 +1493,7 @@ art19.com
 artforfreedom.flipboard.com
 articles.chicagotribune.com
 articles.latimes.com
+artifactory.appodeal.com
 arv.us
 as.com
 as.flipboard.com
@@ -1629,6 +1636,7 @@ avatars3.githubusercontent.com
 avsforum.com
 avt.mkklcdnv6.com
 awards.netflix.com
+awin1.com
 awssgp0-files.fds.api.xiaomi.com
 awsusor0-cdn.fds-ssl.api.xiaomi.com
 ax.init.itunes.apple.com
@@ -1868,6 +1876,7 @@ blog.hulu.com
 blog.it.playstation.com
 blog.like.naver.com
 blog.linkedin.com
+blog.logrocket.com
 blog.maxmind.com
 blog.medium.com
 blog.naver.com
@@ -2245,6 +2254,7 @@ cdn.polyfill.io
 cdn.printfriendly.com
 cdn.ravenjs.com
 cdn.rawgit.com
+cdn.rozetka.com.ua
 cdn.samsung.com
 cdn.samsung.com.edgekey.net
 cdn.samsungcloudsolution.com
@@ -2470,6 +2480,7 @@ ci4.googleusercontent.com
 ci5.googleusercontent.com
 cifraclub.com.br
 cimage.adobe.com
+cindyholbrook.lpages.co
 cipater.soundcloud.com
 ciscdb.sel.sony.com
 cisco.com
@@ -2486,7 +2497,11 @@ click.icptrack.com
 click.linksynergy.com
 click.mail.jp.playstation.com
 click.redditmail.com
+click.simba.taobao.com
+click.trafficguard.ai
 click.txn-email.playstation.com
+click.virt.exacttarget.com
+click.virt.s*.exacttarget.com
 clickbank.com
 clickfunnels.com
 clicknupload.link
@@ -2525,6 +2540,7 @@ clkmg.com
 cloud.gsdk.proximabeta.com
 cloud.huawei.com
 cloud.lg.com
+cloud.notification-naviextras.com
 cloud.rovio.com
 cloud.typography.com
 cloudcampus.rnd.huawei.com
@@ -2546,6 +2562,7 @@ cm-01-ams1.cm.steampowered.com
 cm-02-ams1.cm.steampowered.com
 cm-03-ams1.cm.steampowered.com
 cm-04-ams1.cm.steampowered.com
+cm-beacon.nakanohito.jp
 cm-widget.nakanohito.jp
 cm1-par1.cm.steampowered.com
 cm1-sto1.cm.steampowered.com
@@ -2789,6 +2806,7 @@ cryptopia.co.nz
 cs.daum.net
 cs.gravatar.com
 cs.mbgame.gamesafe.qq.com
+cs.silverpop.com
 cs.twitch.tv
 cs.wikipedia.com
 cs2-stockphotos.adobe.com
@@ -2859,6 +2877,7 @@ d4.me
 da.gravatar.com
 daffodilvarsity.edu.bd
 dai.ly
+daikoku.ebis.ne.jp
 dailycaller.com
 dailyhunt.in
 dailykos.com
@@ -3111,6 +3130,7 @@ dns.cloudflare.com
 dns.msftncsi.com
 dns1.funimation.com
 dns2.funimation.com
+dnsotls-ds.metric.gstatic.com
 doc.btc.com
 doc.emergingthreats.net
 docs.bitfinex.com
@@ -3335,16 +3355,20 @@ emagazine.rakuten.co.jp
 email-assets.getpocket.com
 email-assets.soundcloud.com
 email-connect.spot.im
+email.*.skyeng.ru
 email.163.com
 email.appsumo.com
+email.awscloud.com
 email.cmm.canon.com.my
 email.dailycaller.com
+email.elitedangerous.com
 email.flipboard.com
 email.gotinder.com
 email.mail.breitbart.com
 email.notify.vuukle.com
 email.ok.ru
 email.pinterest.com
+email.procook.co.uk
 emarketer.com
 embed.actionbutton.co
 embed.ly
@@ -3392,6 +3416,7 @@ entertain.v.daum.net
 entitlement.auth.adobe.com
 entrepreneur.com
 entry-at.line.me
+envato.market
 eo.wikipedia.com
 eonline.com
 ep3.performfeeds.com
@@ -3585,6 +3610,7 @@ fe3.delivery.mp.microsoft.com
 fe4.edge.pantheon.io
 featured-profiles.soundcloud.com
 features.engadget.com
+feed.adrelayer.com
 feed.feedburner.com
 feed.xda-developers.com
 feedback.aliexpress.com
@@ -3740,6 +3766,7 @@ forum.kaspersky.com
 forum.kissanime.com
 forum.mikrotik.com
 forum.minergate.com
+forum.notebookreview.com
 forum.synology.com
 forum.ucweb.com
 forum.xda-developers.com
@@ -3855,6 +3882,7 @@ ftc.gov
 fthmb.tqn.com
 ftp.adobe.com
 ftp.binance.com
+ftp.bmp.ovh
 ftp.chocolatey.org
 ftp.de.debian.org
 ftp.mozilla.org
@@ -4067,6 +4095,7 @@ go.microsoft.com
 go.nordvpn.net
 go.onelink.me
 go.redirectingat.com
+go.scorptec.com.au
 go.skimresources.com
 go.snapchat.com
 go.sonymobile.com
@@ -4292,6 +4321,7 @@ google.uz
 google.vg
 google.vu
 google.ws
+googleadapis.l.google.com
 googleapis.com
 googleapis.l.google.com
 googlehosted.l.googleusercontent.com
@@ -4343,6 +4373,7 @@ groups.google.com
 growingio.com
 growth.pusher.com
 grp02.trc.ashiato.rakuten.co.jp
+grp07.ias.rakuten.co.jp
 gs-sec.ww.np.dl.playstation.net
 gs.apple.com
 gs.statcounter.com
@@ -4408,6 +4439,7 @@ harvard.edu
 hash.github.com
 hatena.ne.jp
 hawk.pcgamer.com
+hb.afl.rakuten.co.jp
 hbo.com
 hbogo.com
 hbogo.pl
@@ -4422,6 +4454,7 @@ hdserver.nirsoft.net
 he.gravatar.com
 he.wikipedia.com
 heads-fa.scdn.co
+health.halodoc.com
 healthnutnews.com
 heapanalytics.com
 heartbeat.dm.origin.com
@@ -4943,6 +4976,7 @@ internal.akadns.net
 internet.sony.tv
 internetdownloadmanager.com
 interpark.com
+intersport.peerius.com
 intervista.youdao.com
 intl.fusionsolar.huawei.com
 intranet.xiaomi.com
@@ -5359,7 +5393,9 @@ linkinghub.elsevier.com
 linkis.com
 links.announcements.soundcloud.com
 links.confirmation.soundcloud.com
+links.e.theatlantic.com
 links.em.ign.com
+links.getblueshift.com
 links.iterable.com
 links.notifications.soundcloud.com
 linkshrink.net
@@ -5452,8 +5488,10 @@ lockurl.com
 lodz.tvp.pl
 log-upload-os.mihoyo.com
 log.entrance.sonymobile.com
+log.mmstat.com
 logback.qos.ch
 logbuch-netzpolitik.de
+logentries.com
 loggly.com
 login.aliexpress.com
 login.breitbart.com
@@ -5467,6 +5505,7 @@ login.live.com
 login.marketing.adobe.com
 login.mediaset.it
 login.microsoftonline.com
+login.sendpulse.com
 login.skype.com
 login.snapchat.com
 login.techcrunch.com
@@ -5838,6 +5877,7 @@ mazu.sec.miui.com
 mbest.aliexpress.com
 mbl.is
 mc-siderail.spot.im
+mc.*.exacttarget.com
 mcaf.ee
 mcafee.com
 mdidesign.ca
@@ -6165,6 +6205,7 @@ my.playstation.com
 my.plexapp.com
 my.preprod.vudu.com
 my.staging.vudu.com
+my.tealiumiq.com
 my.travel.rakuten.co.jp
 my.vudu.com
 myaccount.nytimes.com
@@ -6523,6 +6564,7 @@ office365.com
 officeclient.microsoft.com
 officedepot.com
 official-blog.line.me
+official.paymaya.com
 ogcrawler.blog.naver.com
 oge.la
 ogs.google.com
@@ -6541,6 +6583,7 @@ olymptrade.com
 om.cbsi.com
 omn.sonypictures.com
 omniture.walmart.com
+omsc.kpn.com
 on.playstation.com
 on.recode.net
 on.soundcloud.com
@@ -6550,6 +6593,7 @@ onebox.huawei.com
 oneclient.sfx.ms
 onedrive.live.com
 oneid.mmstat.com
+oneline.nextday.media
 onelogin.com
 oneplus.com
 onesignal.com
@@ -6677,6 +6721,7 @@ packages.chocolatey.org
 paddle.com
 paddleapi.com
 page.line.me
+pagead.l.doubleclick.net
 pagefair.com
 pages.ebay.com
 pages.em.funimation.com
@@ -7025,6 +7070,7 @@ profit.ndtv.com
 proflowers.com
 projects.huffingtonpost.com.au
 prologue.blog.naver.com
+promo.gramedia.com
 promo.kaspersky.com
 promo.mi.com
 promo.webpayments.closeby.internet.apps.samsung.com
@@ -7035,6 +7081,7 @@ promotions.soundcloud.com
 propublica.org
 prothom-alo.com
 prothomalo.com
+proto2ad.durasite.net
 proton.flurry.com
 protonmail.com
 protonmail.uservoice.com
@@ -7067,6 +7114,7 @@ pstmrk.it
 psu.edu
 psychologytoday.com
 pt-br.about.flipboard.com
+pt.afl.rakuten.co.jp
 pt.friendbuy.com
 pt.gravatar.com
 pt.ign.com
@@ -7177,6 +7225,7 @@ r5.bithumb.com
 ra.gtimg.com
 rackcdn.com
 radikal.ru
+radiofrance.targetspot.com
 radiostacja.pl
 raidrush.ws
 raise.ada.support
@@ -7233,6 +7282,7 @@ redditstatic.com
 redfin.com
 rediff.com
 redir.tradedoubler.com
+redirect.appmetrica.yandex.com
 redirect.dealabs.com
 redirect.kaspersky.com
 redirect.viglink.com
@@ -8301,6 +8351,7 @@ suntimes.com
 superio.diigo.com
 superitu.com
 suporte.br.playstation.com
+support-beacon.nakanohito.jp
 support-ca.samsung.com
 support-cacyber.samsung.com
 support-cn.samsung.com
@@ -8314,6 +8365,7 @@ support-s.huawei.com
 support-sei.samsung.com
 support-trial.huawei.com
 support-us.samsung.com
+support-widget.nakanohito.jp
 support.2giga.link
 support.asia.playstation.com
 support.bankrate.com
@@ -8420,6 +8472,7 @@ tac.blog.naver.com
 tag.blog.naver.com
 tag.partner.mairdumont.com
 tags.bkrtx.com
+tags.crwdcntrl.net
 tags.tiqcdn.com
 talk.google.com
 talk.l.google.com
@@ -8558,6 +8611,7 @@ titurl.com
 tj-in-f14.1e100.net
 tkx.apis.anvato.net
 tl.statcounter.com
+tlaol.com
 tlc.com
 tld-list.com
 tlu.dl.delivery.mp.microsoft.com
@@ -10026,6 +10080,7 @@ www.google.tt
 www.google.vg
 www.google.vu
 www.google.ws
+www.googleadservices.com
 www.googleapis.com
 www.googleweblight.com
 www.gotinder.com
@@ -10127,6 +10182,7 @@ www.jabcreations.com
 www.jackjones.com
 www.japan.techrepublic.com
 www.javdict.disqus.com
+www.jdoqocy.com
 www.jdownloader.org
 www.jeeng.com
 www.jobs.medium.com

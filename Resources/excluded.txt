@@ -4321,7 +4321,6 @@ google.uz
 google.vg
 google.vu
 google.ws
-googleadapis.l.google.com
 googleapis.com
 googleapis.l.google.com
 googlehosted.l.googleusercontent.com
@@ -6721,7 +6720,6 @@ packages.chocolatey.org
 paddle.com
 paddleapi.com
 page.line.me
-pagead.l.doubleclick.net
 pagefair.com
 pages.ebay.com
 pages.em.funimation.com
@@ -10080,7 +10078,6 @@ www.google.tt
 www.google.vg
 www.google.vu
 www.google.ws
-www.googleadservices.com
 www.googleapis.com
 www.googleweblight.com
 www.gotinder.com

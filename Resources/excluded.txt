@@ -27,6 +27,7 @@
 0.ru.pool.ntp.org
 0.se.pool.ntp.org
 0.sonostime.pool.ntp.org
+0.tcp.ap.ngrok.iowww.tomshardware.com
 0.ubuntu.pool.ntp.org
 0.uk.pool.ntp.org
 0.us.pool.ntp.org
@@ -5955,6 +5956,7 @@ miibeian.gov.cn
 miitbeian.gov.cn
 mijndomein.nl
 milink.pandora.xiaomi.com
+mimc.chat.xiaomi.net
 mimecast.com
 mimobile.esim.mihome.xiaomi.net
 minapp.com
@@ -9818,6 +9820,7 @@ www.google.al
 www.google.am
 www.google.as
 www.google.at
+www.google.az
 www.google.ba
 www.google.be
 www.google.bf
@@ -10553,7 +10556,6 @@ www.threatcrowd.org
 www.thumbzilla.com
 www.tiktok.com
 www.tmublr.com
-www.tomshardware.com
 www.toptenreviews.com
 www.torlock.com
 www.torproject.org
@@ -10629,8 +10631,6 @@ www.weather.com
 www.weather.gov
 www.web-development-blog.com
 www.webcrawler.com
-mimc.chat.xiaomi.net
-www.google.az
 www.webhostingtalk.com
 www.webmd.com
 www.webopedia.com

@@ -4,10 +4,12 @@ sys.path.append('/filters-maker')
 import crawler
 import maker_rpz
 import maker_domains
+import maker_hosts
 
 incoming = "/reprwiki/Private-build/ucate/domains.txt"
 excluded = "/repros/Resources/excluded.txt"
 rpz_locat = "/reprwiki/Private-build/ucate/rpz.txt"
+hosts_locat = "/reprwiki/Private-build/ucate/hosts.txt"
 
 crawler.clear_old_files(incoming)
 crawler.download_filters("https://dbl.oisd.nl/" ,incoming)
@@ -26,4 +28,5 @@ crawler.killingdup(incoming)
 crawler.excluded(excluded, incoming)
 crawler.sort(incoming)
 maker_rpz.RPZbuilding(excluded, incoming, rpz_locat)
+maker_hosts.hostsbuilding(excluded, incoming, hosts_locat)
 maker_domains.domainsbuilding(excluded, incoming)

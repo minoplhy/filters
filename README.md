@@ -6,4 +6,4 @@ in the future .
 
 ## Available Filters
 ***Note : i'm moving to all filters file to wiki***
-### ucate : [domains](https://github.com/minoplhy/filters/wiki/Private-build/ucate/domains.txt) ,[rpz](https://github.com/minoplhy/filters/wiki/Private-build/ucate/rpz.txt)
+### ucate : [domains](https://github.com/minoplhy/filters/wiki/Private-build/ucate/domains.txt) ,[rpz](https://github.com/minoplhy/filters/wiki/Private-build/ucate/rpz.txt) ,[Host](https://github.com/minoplhy/filters/wiki/Private-build/ucate/hosts.txt)

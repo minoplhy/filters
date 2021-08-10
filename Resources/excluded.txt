@@ -111,7 +111,6 @@
 2.ua.pool.ntp.org
 2.ubuntu.pool.ntp.org
 2.us.pool.ntp.org
-206.189.252.21
 21stcenturywire.com
 2a.me
 2ch.net

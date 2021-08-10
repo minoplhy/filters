@@ -19,4 +19,4 @@ in the future .
 
 ***Q : Why GitHub Actions not your own machine***
 
-***A : Well, my country's economic is in the worst situation due to pandemic and other thing else . I'm afraid that someday i can't paid Hosting fee and forced to shutdown all my Hosting stuff . so, to reduce damage from that wrost case scenario . i'm trying to migrate some of my project's stuff to GitHub Actions, Heroku and somewhere else...***
+***A : Well, my country's economic is in the worst situation due to pandemic and other thing else . I'm afraid that someday i can't paid Hosting fee and forced to shutdown all my Hosting stuff . so, to reduce damage from that worst case scenario . i'm trying to migrate some of my project's stuff to GitHub Actions, Heroku and somewhere else...***

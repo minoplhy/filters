@@ -13,7 +13,7 @@ hosts_locat = "/reprwiki/Private-build/ucate/hosts.txt"
 
 crawler.clear_old_files(incoming)
 crawler.download_filters("https://dbl.oisd.nl/" ,incoming)
-crawler.download_filters("https://hosts.netlify.app/Pro/rpz.txt" ,incoming)
+crawler.download_filters("https://badmojr.github.io/1Hosts/Pro/rpz.txt" ,incoming)
 crawler.download_filters("https://filters.kylz.nl/RPZ/adguard/dns.txt" ,incoming)
 crawler.download_filters("https://filters.kylz.nl/RPZ/adguard/cname-tracker.txt" ,incoming)
 crawler.download_filters("https://filters.kylz.nl/RPZ/adguard/cname-original.txt" ,incoming)

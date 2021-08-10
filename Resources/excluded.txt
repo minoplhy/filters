@@ -111,6 +111,7 @@
 2.ua.pool.ntp.org
 2.ubuntu.pool.ntp.org
 2.us.pool.ntp.org
+206.189.252.21
 21stcenturywire.com
 2a.me
 2ch.net
@@ -149,6 +150,7 @@
 4-edge-chat.facebook.com
 4.bp.blogspot.com
 4.cn
+4chan.org
 4pda.ru
 4pda.to
 4shared.com
@@ -394,6 +396,7 @@ affiliate.hitbtc.com
 affiliate.twitch.tv
 afi-b.com
 africa.pool.ntp.org
+afterrape.net
 aftonbladet.se
 agilean.in
 ahcdn.com
@@ -462,6 +465,7 @@ alternativeto.net
 am-api.snapchat.com
 am.coinbase.com
 amap.com
+amaporn.com
 amauthprd.samsungcloudsolution.com
 amazon.ac
 amazon.academy
@@ -1065,6 +1069,7 @@ androidfilehost.com
 androidforums.com
 androidtv.app.hulu.com
 angelfire.com
+angelsx.com
 angolotesti.it
 angryip.org
 ani.sh
@@ -1132,6 +1137,7 @@ api-v2.soundcloud.com
 api-widget.soundcloud.com
 api-widget.x.sndcdn.com
 api-x.sonymobile.com
+api..coinmama.com
 api.account.adobe.com
 api.account.xiaomi
 api.account.xiaomi.com
@@ -1637,6 +1643,7 @@ avatars3.githubusercontent.com
 avsforum.com
 avt.mkklcdnv6.com
 awards.netflix.com
+awemwh.com
 awin1.com
 awssgp0-files.fds.api.xiaomi.com
 awsusor0-cdn.fds-ssl.api.xiaomi.com
@@ -1724,10 +1731,14 @@ be5.com
 beauty.rakuten.co.jp
 bebe.com
 bedbathandbeyond.com
+beeg.com
 behacdn.ksmobile.sec.miui.com
 behance.net
 behoimi.org
 beian.gov.cn
+bejav.com
+bejav.me
+bejav.net
 bemyeyes.com
 bendigobank.com.au
 bene.flipboard.com
@@ -1735,6 +1746,7 @@ benefitcosmetics.com
 berkeley.edu
 best.aliexpress.com
 bestbuy.com
+bestfreetube.xxx
 bestfwdservice.com
 bestmovies.com
 bet365.com
@@ -1776,6 +1788,7 @@ bhphotovideo.com
 bia2vip.site
 bialystok.tvp.pl
 big.at
+bigassporn.top
 bigcartel.com
 bigfile.co.kr
 bigfile.mail.naver.com
@@ -1938,12 +1951,14 @@ boardgamegeek.com
 boards.greenhouse.io
 boards.ign.com
 boardsus.playstation.com
+bobolike.com
 boinc.bakerlab.org
 bokser.org
 bol.com
 boldchat.com
 bolt.dropbox.com
 bomis.snap.com
+bongacams.com
 book.daum.net
 book.naver.com
 booking.com
@@ -2105,6 +2120,7 @@ campaign-archive2.com
 campaign.consumer.huawei.com
 campaign.line.me
 campaigns.sonymobile.com
+camsoda.com
 cane.com
 canhaz.com
 canva.com
@@ -2151,6 +2167,7 @@ cc2.sys.intl.xiaomi.com
 ccare-sts.huawei.com
 ccare.crm.huawei.com
 ccb.internet.sony.tv
+ccbill.com
 ccc.sys.intl.xiaomi.com
 ccc.sys.miui.com
 ccmbg.com
@@ -2239,6 +2256,7 @@ cdn.mozilla.net
 cdn.mplxtms.com
 cdn.mxpnl.com
 cdn.naver.com
+cdn.onenote.net
 cdn.onesignal.com
 cdn.opinionlab.com
 cdn.optimizely.com
@@ -2272,6 +2290,7 @@ cdn.stripst.com
 cdn.stumbleupon.com
 cdn.support.sonymobile.com
 cdn.syndication.twimg.com
+cdn.teamskeetimages.com
 cdn.technologyreview.com
 cdn.theatlantic.com
 cdn.tinypass.com
@@ -2324,6 +2343,11 @@ cdns.eu1.gigya.com
 cdns.gigya.com
 cdns1.gigya.com
 cdnsecakmi.kaltura.com
+cdnthumb1.spankbang.com
+cdnthumb2.spankbang.com
+cdnthumb3.spankbang.com
+cdnthumb4.spankbang.com
+cdnthumb5.spankbang.com
 cdntip.com
 cdp.aliexpress.com
 cds.csx.sony.com
@@ -2439,6 +2463,7 @@ chatenabled.mail.google.com
 chatlounge-preview.xbox.com
 chatrouter-verizon.inq.com
 chats.viber.com
+chaturbate.com
 chbusiness.samsung.com
 cheatengine.org
 check.ddos-guard.net
@@ -2619,6 +2644,7 @@ coinmine.pl
 coinurl.com
 collateral.medium.com
 collect.media.jio.com
+collectionofbestporn.com
 collegehumor.com
 color.adobe.com
 color.typekit.com
@@ -2832,6 +2858,7 @@ ctldl.windowsupdate.com
 cts.businesswire.com
 cu.ac.bd
 cubestat.com
+cumilf.com
 curiosity.com
 curvesncombatboots.com
 custhelp.com
@@ -2917,6 +2944,7 @@ datastore.rediff.com
 daum.net
 daumcdn.net
 db-ip.com
+db.local.clamav.net
 db.tt
 dc-e70d1ce32117.chia-anime.tv
 dcape-na.amazon.com
@@ -3171,6 +3199,7 @@ down.boomkat.com
 down.local.sec.samsung.com
 down.local.sec.samsung.com.cdngc.net
 down.nbooks.naver.com
+down3.ucweb.com
 download-c.huawei.com
 download-c1.huawei.com
 download-psnow.playstation.com
@@ -3251,6 +3280,7 @@ e-campaign.huawei.com
 e-contactus.samsung.com
 e-file.huawei.com
 e-hentai.or
+e-hentai.org
 e-learning.huawei.com
 e-recht24.de
 e-words.jp
@@ -3266,6 +3296,7 @@ e2e.ign.com
 e3489.cd.akamaiedge.net
 e4478.a.akamaiedge.net
 e5298.g.akamaiedge.net
+e621.net
 e8.org
 e8318.dsca.akamaiedge.net
 ea.co
@@ -3276,6 +3307,7 @@ earthlink.net
 easylist-downloads.adblockplus.org
 easylist.club
 easylist.to
+easyporn.xxx
 ebates.com
 ebay.co.uk
 ebay.com
@@ -3329,6 +3361,7 @@ education.ti.com
 eek.us
 eepurl.com
 eeurl.com
+eff.org
 eightforums.com
 ein.funimation.com
 eio-feed.exchange.coinbase.com
@@ -3412,6 +3445,7 @@ engineering.flipboard.com
 engineering.taboola.com
 engineering.twitch.tv
 enter.dcinside.com
+enter.javhd.com
 enterprise.huawei.com
 entertain.naver.com
 entertain.v.daum.net
@@ -3437,6 +3471,7 @@ ereg.wip3.adobe.com
 eren.chia-anime.tv
 erky.de
 error.facebook.com
+erroticahunter.com
 es-es.about.flipboard.com
 es-mx.twitch.tv
 es.about.flipboard.com
@@ -3570,10 +3605,13 @@ facebook.net
 factorio.com
 factory.blog.naver.com
 fakecell.sys.miui.com
+fakehub.com
 familydollar.com
 fan.twitch.tv
 fanat.ua
 fantasy.premierleague.com
+fap18.net
+fapdex.com
 faq.it.playstation.com
 fark.com
 farm4.staticflickr.com
@@ -3714,6 +3752,7 @@ fl8.me
 flapi.flipboard.com
 flash.sec.intl.miui.com
 flash.sec.miui.com
+flashservice.xvideos.com
 flashx.tv
 flaticon.com
 flea.flipboard.com
@@ -3724,6 +3763,7 @@ flipboard.com
 flipkart.com
 flipp.com
 flipper.flipboard.com
+flirt4free.com
 flixcart.com
 flowplayer.com
 fls-eu.amazon.com
@@ -3746,6 +3786,7 @@ footprint.net
 forbes.com
 forbusiness.snapchat.com
 force.com
+forcedsex.org
 forecast.ucweb.com
 foresee.com
 foreseeresults.com
@@ -3887,11 +3928,13 @@ ftp.binance.com
 ftp.bmp.ovh
 ftp.chocolatey.org
 ftp.de.debian.org
+ftp.heanet.ie
 ftp.mozilla.org
 ftp.techmeme.com
 ftpcontent.worldnow.com
 ftvr-na.amazon.com
 fuas.sonymobile.com
+fuck55.net
 fullstory.com
 fund.jr.mi.com
 funimation.com
@@ -3899,6 +3942,7 @@ funk.eu
 funnymp4.net
 funnyordie.com
 fur.ly
+furk.net
 fustat.ospserver.net
 future.techcrunch.com
 fx.cc
@@ -4111,6 +4155,7 @@ go.wechat.com
 gob.pe
 godaddy.com
 godofwar.playstation.com
+gofucker.com
 gofundme.com
 gog-statics.com
 gogoanime.io
@@ -4421,6 +4466,7 @@ h-sdk.online-metrix.net
 h.beta.facebook.com
 h.biz
 h.facebook.com
+h2porn.com
 h5.m.taobao.com
 h5.mi.com
 hackaday.com
@@ -4431,10 +4477,12 @@ halo.part.xbox.com
 halo.xbox.com
 handhelds.engadget.com
 hangeul.naver.com
+hanime.tv
 hao.xiaomi.com
 hao123.com
 har.es
 harborfreight.com
+hardsextube.com
 hardware.support.eu.playstation.com
 hardwareluxx.de
 harpercollins.com
@@ -4452,8 +4500,11 @@ hd.engadget.com
 hd.mi.com
 hd.xiaomi.com
 hd02.lg.xiaomi.com
+hdfuckporn.com
 hdo.to
 hdserver.nirsoft.net
+hdsexdino.com
+hdxnxx.xxx
 he.gravatar.com
 he.wikipedia.com
 heads-fa.scdn.co
@@ -4491,6 +4542,7 @@ helpme.viber.com
 helpscout.net
 helpx.adobe.com
 henrys.com
+hentaigasm.com
 hentaihaven.org
 herbeauty.co
 here.com
@@ -4572,9 +4624,11 @@ hostsfile.org
 hotel.travel.rakuten.co.jp
 hotjar.com
 hotmail.com
+hotmomsexvideos.com
 hotscripts.com
 hotspotshield.com
 hotstar-sin.gravityrd-services.com
+hotxxxxvids.com
 house.gov
 houston.cbslocal.com
 houzz.com
@@ -4583,8 +4637,10 @@ how.my
 howtogeek.com
 hp.com
 hpg.com.br
+hqhole.pro
 hqq.tv
 hqq.watch
+hqtube.xxx
 hr.mi.com
 hrcs.huawei.com
 href.li
@@ -4653,6 +4709,7 @@ i1.sndcdn.com
 i1.social.s-msft.com
 i1.wp.com
 i1.ytimg.com
+i2.bongacams.com
 i2.cdn.turner.com
 i2.com
 i2.feedspot.com
@@ -4769,6 +4826,7 @@ images-ext-1.discordapp.net
 images-ext-2.discordapp.net
 images-fe.ssl-images-amazon.com
 images-h2-2.ssl-images-amazon.com
+images-llnw.xvideos-cdn.com
 images-na-2.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images-ssl.gotinder.com
@@ -4821,6 +4879,9 @@ ime.api.xiaomi.com
 img-cdn.huami.com
 img-developer.samsung.com
 img-developer.samsung.com.edgekey.net
+img-egc.xvideos-cdn.com
+img-egc.xvideos.com
+img-hw.xvideos-cdn.com
 img-s-msn-com.akamaized.net
 img.alibaba.com
 img.alicdn.com
@@ -4940,6 +5001,7 @@ ing-diba.de
 ing.fm
 ingest.twitch.tv
 ingress.com
+inhumanity.com
 init.spot.im
 inkbee.com
 inkpeak.com
@@ -5031,6 +5093,7 @@ iplists.firehol.org
 ipm-provider.ff.avast.com
 ipmcloud.kaspersky.com
 ipopimg.sina.com.tw
+ipornox.xxx
 ipr-external.huawei.com
 ipredator.se
 iprl.com
@@ -5094,6 +5157,9 @@ japan.techrepublic.com
 japanese.engadget.com
 jarvis-dev.sonymobile.com
 javdict.disqus.com
+javfinder.is
+javhd.com
+javstream.us
 jcpenney.com
 jcpmediadeviceid.jio.com
 jd.com
@@ -5223,6 +5289,7 @@ kissanime.ru
 kissasian.ch
 kissasian.sh
 kisshentai.net
+kissmanga.com
 kissmetrics.com
 kit.fontawesome.com
 kit.snapchat.com
@@ -5465,6 +5532,7 @@ livedoor.jp
 livefilestore.com
 livefyre.com
 liveinternet.ru
+livejasmin.com
 livejournal.com
 livepassdl.conviva.com
 livestream.com
@@ -5570,6 +5638,8 @@ ly2.ws
 m-a-tb.sndcdn.com
 m.104.com.tw
 m.123movies.to
+m.3movs.com
+m.4tube.com
 m.about.com
 m.alibaba.com
 m.aliexpress.com
@@ -5625,6 +5695,7 @@ m.diigo.com
 m.dnaindia.com
 m.domain.dot.tk
 m.dot.tk
+m.drtuber.com
 m.ebay.co.uk
 m.ebay.com
 m.ebay.fr
@@ -5640,9 +5711,12 @@ m.extratorrent.com
 m.facebook.com
 m.facebookcom
 m.files.bbci.co.uk
+m.firecams.com
 m.firstpost.com
 m.foxnews.com
+m.fuckup.xxx
 m.funnyordie.com
+m.fux.com
 m.game.dcinside.com
 m.gameloft.com
 m.gamespot.com
@@ -5660,6 +5734,7 @@ m.hollywood.com
 m.hostgator.com
 m.hosts-file.net
 m.hotmail.com
+m.hqporner.com
 m.huawei.com
 m.huffingtonpost.co.uk
 m.huffingtonpost.com
@@ -5701,9 +5776,12 @@ m.pcbeta.com
 m.phonearena.com
 m.pinterest.com
 m.piwik.org
+m.playboy.com
 m.playstation.com
 m.plus.google.com
 m.poloniex.com
+m.pornhub.com
+m.porntube.com
 m.post.naver.com
 m.pr0gramm.com
 m.primewire.ag
@@ -5723,6 +5801,7 @@ m.skype.com
 m.slashdot.org
 m.softonic.com
 m.soundcloud.com
+m.spankbang.com
 m.sports.dcinside.com
 m.statcounter.com
 m.state.gov
@@ -5739,6 +5818,7 @@ m.tucows.com
 m.tumblr.com
 m.turbobit.net
 m.twitch.tv
+m.txxx.com
 m.uk.ign.com
 m.usa.gov
 m.usaid.gov
@@ -5756,7 +5836,12 @@ m.wikipedia.com
 m.wix.com
 m.womenshealthmag.com
 m.xbox.com
+m.xhamster.com
 m.xiaomi.com
+m.xnxx.com
+m.xtube.com
+m.xvideos.com
+m.youporn.com
 m.youtube.com
 m.zippyshare.com
 m1.chia-anime.tv
@@ -5874,6 +5959,7 @@ mat1.gtimg.com
 match.com
 matchinguu.com
 matlab.mathworks.com
+maturealbum.me
 mavrev.com
 maxcdn.bootstrapcdn.com
 maxmind.com
@@ -5943,6 +6029,8 @@ meetu.ps
 meetup.com
 mega.co.nz
 mega.nz
+mega3x.com
+mega3x.net
 megagames.com
 meizu.com
 mem.gfx.ms
@@ -6106,6 +6194,7 @@ moderation.spot.im
 modpim.com
 mojime.wechat.com
 moments-photos.gotinder.com
+momporn.one
 moneysavingexpert.com
 monitor.returnpath.net
 monitoring-team.sonymobile.com
@@ -6116,6 +6205,7 @@ mopub.com
 mormon.org
 moscow.my.kaspersky.com
 motherboard.vice.com
+motherless.com
 motor-forum.nl
 motto.daisuki.net
 mouseflow.com
@@ -6162,6 +6252,7 @@ msh.amazon.com
 msn.com
 msnbc.com
 mss-offermgmt.modpim.com
+mstatic.spankbang.com
 mt.hitbtc.com
 mt.mylife.com
 mta.engage.xbox.com
@@ -6222,6 +6313,7 @@ mydealz.digidip.net
 myfico.com
 myfonts.net
 myfox8.com
+myfreecams.com
 myhome.naver.com
 mylife.com
 mypc.naver.com
@@ -6236,6 +6328,7 @@ myunidays.com
 mywot.com
 myxperia.sonymobile.com
 myètherwället.com
+mzansi.porn
 mzstatic.com
 mÿethèrwallét.com
 n2s.us
@@ -6255,6 +6348,7 @@ na4r.services.adobe.com
 na5.content.force.com
 na53.content.force.com
 nac.naver.com
+naked.com
 nam02.safelinks.protection.outlook.com
 nam04.safelinks.protection.outlook.com
 namebright.com
@@ -6312,6 +6406,7 @@ networks.feedburner.com
 networksolutions.com
 neu1-urlp.secure.skypeassets.com
 neustar.biz
+nevid.us
 new.ow.ly
 new.www.huffingtonpost.com
 newbiecontest.com
@@ -6373,6 +6468,7 @@ nhk.or.jp
 nhs.uk
 nic.ad.jp
 nicehash.com
+nicexvideos.com
 nid.naver.com
 nifty.com
 nih.gov
@@ -6493,10 +6589,12 @@ nsx.sec.np.dl.playstation.net
 nt.me
 ntp.org
 nturl.com
+nudevista.com
 nulled.to
 nulledfree.pw
 nurl.net
 nus1-urlp.secure.skypeassets.com
+nutaku.net
 nutrija.com
 nv.veta.naver.com
 nvidia.com
@@ -6607,6 +6705,7 @@ onet.rakuten.co.jp
 onhax.me
 onhax.net
 onlinevideoconverter.com
+onlyindianporn.net
 onmpeg.com
 onrpg.com
 oo.gl
@@ -6859,6 +6958,7 @@ pi-hole.net
 pi.hole
 pic.pic-img.com
 pic.twitter.com
+pichunter.com
 pie.daum.net
 piguiqproxy.com
 pilkanozna.pl
@@ -6913,6 +7013,7 @@ play.spotify.com
 play.spotify.edgekey.net
 play.syndicaster.tv
 play2.chia-anime.tv
+playboy.com
 player.cnevids.com
 player.h-cdn.com
 player.hulu.com
@@ -6969,6 +7070,24 @@ pool.next.exchange
 pool.ntp.org
 pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
+porn-plus.com
+porn.sarl
+porndabster.com
+pornerbros.com
+pornfuror.com
+pornhub.com
+pornhubpremium.com
+pornhubselect.com
+pornminded.com
+pornmummy.com
+pornofkings.com
+pornos.cl
+pornrape.tv
+pornrapetube.net
+porntube.com
+pornvideostube.net
+pornxo.xxx
+pornxxx77.com
 port.sec.intl.miui.com
 portableaudio.engadget.com
 portablevideogamer.com
@@ -7240,6 +7359,8 @@ rank.spot.im
 ranker.com
 ranking.rakuten.co.jp
 ransomwaretracker.abuse.ch
+rapeinporn.com
+rapeinsleep.com
 rapidgator.net
 rapidshare.com
 rapidvid.to
@@ -7284,6 +7405,7 @@ reddit.com
 redditmedia.com
 redditstatic.com
 redfin.com
+redhdtube.xxx
 rediff.com
 redir.tradedoubler.com
 redirect.appmetrica.yandex.com
@@ -7296,6 +7418,7 @@ redirectme.net
 redirector.googlevideo.com
 redirector.gvt1.com
 redsky.target.com
+redtube.com
 reebok.com
 ref.in
 ref.to
@@ -7436,9 +7559,11 @@ ru.statcounter.com
 ru.twitch.tv
 ru.wikipedia.com
 rukminim1.flixcart.com
+rule34.xxx
 rumble.com
 rupload.facebook.com
 rush.oneplus.com
+rushporn.com
 rv2.com
 rz.se
 rzeszow.tvp.pl
@@ -7537,6 +7662,7 @@ sakura.ne.jp
 salemove.com
 salesforce.com
 salesforceliveagent.com
+sambaporno.xyz
 samizdat.nytimes.com
 sampleweb-preview.xbox.com
 samsung.com
@@ -7771,6 +7897,9 @@ settings-win.data.microsoft.com
 settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
 sevenforums.com
+sexlist.com
+sexloving.net
+sexyrealsexdolls.com
 seznam.cz
 sf.api.np.km.playstation.net
 sf.prod.sonyentertainmentnetwork.com
@@ -8012,6 +8141,7 @@ spa.snap.com
 spaces.live.com
 spade.twitch.tv
 spanish.engadget.com
+spankbang.com
 spapps.co
 spapps.spotify.edgekey.net
 spark.adobe.com
@@ -8084,6 +8214,7 @@ sstats.adobe.com
 sstats.economist.com
 sstream.flipboard.com
 st.hitbtc.com
+st.stripcdn.com
 stackexchange.com
 stackoverflow.com
 stackpath.com
@@ -8099,6 +8230,7 @@ staging-about.flipboard.com
 staging-api.spot.im
 staging-cdn.support.sonymobile.com
 staging-store.crunchyroll.com
+staging..coinmama.com
 staging.admin.e.mi.com
 staging.ai.api.xiaomi.com
 staging.app-analytics.snapchat.com
@@ -8139,6 +8271,7 @@ state.gov
 state.tx.us
 static-asm.secure.skypeassets.com
 static-fonts.adobe.com
+static-hw.xvideos.com
 static-pepper.dealabs.com
 static-resource.np.community.playstation.net
 static-xl9-ssl.xunlei.com
@@ -8324,6 +8457,7 @@ streamer.tawenda-tech.org
 streamplay.me
 streamplay.to
 strefa.fm
+stripchat.com
 stripe.com
 stripe.network
 stripes.com
@@ -8520,6 +8654,8 @@ techtarget.com
 techtunes.com.bd
 ted.com
 tedcdn.com
+teenpornvideo.xxx
+teens-kitten.com
 teespring.com
 tel.fe01.hh.xiaomi.com
 telegra.ph
@@ -8573,12 +8709,14 @@ themoviedb.com
 thenextweb.com
 thepiratebay.org
 thepiratebay.se
+theporndude.com
 thetimes.co.uk
 thetvdb.com
 theverge.com
 thewindowsclub.com
 thewrap.com
 thirdqq.qlogo.cn
+thisav.com
 thm.market.xiaomi.com
 threats.kaspersky.com
 thumb.pr0gramm.com
@@ -8646,6 +8784,7 @@ tools.ranker.com
 tools.tracemyip.org
 top.cafe.daum.net
 top.mail.ru
+top1porn.com
 topics.breitbart.com
 topics.spot.im
 topratedmilfs.com
@@ -8677,6 +8816,7 @@ track.bpost.be
 track.nzz.ch
 track.rediff.com
 track.rutarget.ru
+track.spiceworks.com
 track.ucas.com
 tracker.opentrackr.org
 tracking.feedpress.it
@@ -8691,6 +8831,8 @@ traffic.spot.im
 trafficdeposit.com
 trafficrouter.io
 trakt.tv
+trannytube.name
+trannytube.net
 transact.playstation.com
 transfer.sh
 translate.google.com
@@ -8728,7 +8870,12 @@ ts.my
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tuasaude.com
 tuba.fm
+tube188.com
+tube2017.com
 tube8.com
+tubefree.com
+tubesexer.com
+tubev.sex
 tuchong.com
 tucows.com
 tucowsdomains.com
@@ -8774,6 +8921,7 @@ twilightparadox.com
 twimg.com
 twimg.sinatw.com
 twimg0-a.akamaihd.net
+twinkspornos.com
 twitch.tv
 twitchy.com
 twitter.com
@@ -8878,6 +9026,7 @@ upload.wikimedia.org
 uploadandmanage.help.soundcloud.com
 uploaded.net
 uploading.com
+upornia.com
 uppit.com
 upside.app.link
 uptime.com
@@ -9074,6 +9223,7 @@ videolog.blog.naver.com
 videomate.mobi
 videos.files.wordpress.com
 videos.vidible.tv
+videoscaseros.com.mx
 vidible.tv
 vidoza.net
 vidtech.cbsinteractive.com
@@ -9102,6 +9252,7 @@ visualstudio.com
 vitacost.com
 vitalia.pl
 vivo.sx
+vixen.com
 vjs.zencdn.net
 vk.cc
 vk.com
@@ -9325,6 +9476,7 @@ widgets.ign.com
 widgets.twimg.com
 widgets.weather.com
 wieistmeineip.de
+wifepornvideo.com
 wifiapi.micloud.xiaomi.net
 wiimedia.ign.com
 wiki.bitfinex.com
@@ -9453,8 +9605,11 @@ www.123movies.to
 www.163.com
 www.1e100.net
 www.2giga.link
+www.3movs.com
+www.4chan.org
 www.4pda.ru
 www.4shared.com
+www.4tube.com
 www.91mobiles.com
 www.9Anime.to
 www.9anime.at
@@ -9506,6 +9661,7 @@ www.alluc.ee
 www.alluremedia.com
 www.alluremedia.com.au
 www.alpha-t.net
+www.amaporn.com
 www.amazon.ca
 www.amazon.co.jp
 www.amazon.co.uk
@@ -9563,6 +9719,7 @@ www.auslogics.com
 www.auth0.com
 www.autistici.org
 www.avast.com
+www.babes.com
 www.backblazeb2.com
 www.backpage.com
 www.baidu.com
@@ -9619,6 +9776,7 @@ www.boxcryptor.com
 www.bracu.ac.bd
 www.braintreegateway.com
 www.brands.medium.com
+www.brazzersnetwork.com
 www.breitbart.com
 www.brightcove.com
 www.browser-update.org
@@ -9640,9 +9798,11 @@ www.ca.cdn.survey.medallia.com
 www.cachefly.net
 www.cafemom.com
 www.cambridge.org
+www.camsoda.com
 www.canva.com
 www.canyoublockit.com
 www.cbsnews.com
+www.ccbill.com
 www.cdn-audio-1.medium.com
 www.cdn-images-1.medium.com
 www.cdn-images-2.medium.com
@@ -9669,6 +9829,7 @@ www.chron.com
 www.citrix.com
 www.clickfunnels.com
 www.clien.net
+www.cliphunter.com
 www.cloudflare.com
 www.clubedohardware.com.br
 www.cms.techrepublic.com
@@ -9737,6 +9898,7 @@ www.dictionary.cambridge.org
 www.dictionary.com
 www.digicert.com
 www.digidip.net
+www.digitalplayground.com
 www.digitaltrends.com
 www.diigo.com
 www.directvnow.com
@@ -9755,6 +9917,7 @@ www.dramafever.com
 www.drift.com
 www.dropbox.com
 www.drp.su
+www.drtuber.com
 www.dshield.org
 www.duckdns.org
 www.duo.nl
@@ -9765,6 +9928,7 @@ www.ebay.co.uk
 www.ebay.com
 www.ebay.fr
 www.ebay.it
+www.eff.org
 www.eightforums.com
 www.elephantjournal.com
 www.email.dailycaller.com
@@ -9777,6 +9941,8 @@ www.engadget.com
 www.eonline.com
 www.episerver.net
 www.epizy.com
+www.eporner.com
+www.erroticahunter.com
 www.espn.com
 www.etahub.com
 www.etf.com
@@ -9795,6 +9961,7 @@ www.extratorrent.cc
 www.extratorrent.com
 www.f-droid.org
 www.facebook.com
+www.fakehub.com
 www.fast.com
 www.faucethub.io
 www.feedburner.com
@@ -9811,11 +9978,13 @@ www.filehorse.com
 www.filepicker.io
 www.fileserve.com
 www.financial.org
+www.firecams.com
 www.firstpost.com
 www.fitgirl-repacks.site
 www.flashx.tv
 www.flaticon.com
 www.flipkart.com
+www.flirt4free.com
 www.flowplayer.com
 www.fmovies.to
 www.fncstatic.com
@@ -9842,11 +10011,13 @@ www.foxsports.com.au
 www.fr.wikipedia.com
 www.freenet.de
 www.freeones.com
+www.freesexyindians.com
 www.ftp.chocolatey.org
 www.fuckbookdating.com
 www.funimation.com
 www.funk.eu
 www.funnyordie.com
+www.furk.net
 www.fxhome.com
 www.g.cn
 www.g2a.com
@@ -10090,6 +10261,7 @@ www.googleweblight.com
 www.gotinder.com
 www.gotomyp.com
 www.gotomypc.com
+www.gotporn.com
 www.govtrack.us
 www.gq.com
 www.grab.com
@@ -10102,11 +10274,13 @@ www.gstatic.com
 www.gumroad.com
 www.gumtree.com
 www.hao123.com
+www.hardsextube.com
 www.hardwareluxx.de
 www.harpercollins.com
 www.hbo.com
 www.hdo.to
 www.healthnutnews.com
+www.hegre.com
 www.help.medium.com
 www.here.com
 www.hide.me
@@ -10153,6 +10327,7 @@ www.idownloadblog.com
 www.igamecj.com
 www.igg-games.com
 www.ign.com
+www.iknowthatgirl.com
 www.iltalehti.fi
 www.imagebam.com
 www.images.anandtech.com
@@ -10163,6 +10338,7 @@ www.indystar.com
 www.info.internet.org
 www.infoblox.com
 www.ing-diba.de
+www.inhumanity.com
 www.instagram.com
 www.instant-gaming.com
 www.instapaper.com
@@ -10240,6 +10416,7 @@ www.linkedin.com
 www.linkedinmobileapp.com
 www.linuxtracker.org
 www.liveinternet.ru
+www.livejasmin.com
 www.liveleak.com
 www.llnwd.net
 www.locationiq.com
@@ -10300,6 +10477,7 @@ www.mobisystems.com
 www.modapkdown.com
 www.moddb.com
 www.modpim.com
+www.mofos.com
 www.moneysavingexpert.com
 www.mormon.org
 www.movable-ink-2183.com
@@ -10320,6 +10498,7 @@ www.myfico.com
 www.myfonts.com
 www.myfonts.net
 www.myfox8.com
+www.myfreecams.com
 www.mylife.com
 www.myunidays.com
 www.mywifiext.com
@@ -10330,6 +10509,7 @@ www.nanopool.org
 www.nanorep.com
 www.napisy24.pl
 www.nationalgeographic.com
+www.naughtyamerica.com
 www.nautilus.ru
 www.naver.com
 www.nbcnews.com
@@ -10358,7 +10538,9 @@ www.now.sh
 www.npmjs.com
 www.nseindia.com
 www.ntp.org
+www.nudevista.com
 www.nulled.to
+www.nutaku.net
 www.nutrija.com
 www.nvidia.com
 www.nytimes.com
@@ -10412,6 +10594,7 @@ www.petapixel.com
 www.phidonpens.com
 www.phonearena.com
 www.photobucket.com
+www.pichunter.com
 www.picupload.ebay.com
 www.pingdom.com
 www.pinnacle.com
@@ -10420,6 +10603,7 @@ www.piwik.org
 www.pixiv.net
 www.play-asia.com
 www.play.googleapis.com
+www.playboy.com
 www.playstation.com
 www.plex.tv
 www.pluralsight.com
@@ -10430,6 +10614,13 @@ www.poloniex.com
 www.pool.ntp.org
 www.poolhb.com
 www.popuptest.com
+www.porn.com
+www.pornhd.com
+www.pornhub.com
+www.pornhubpremium.com
+www.porntrex.com
+www.porntube.com
+www.porntv.com
 www.posta.co.tz
 www.powr.io
 www.pr0gramm.com
@@ -10469,6 +10660,7 @@ www.reddit.com
 www.redditstatic.com
 www.rediff.com
 www.redirectingat.com
+www.redtube.com
 www.reference.com
 www.reg.ru
 www.reimageplus.com
@@ -10478,6 +10670,7 @@ www.report-uri.com
 www.retro-bit.com
 www.returnpath.com
 www.revdl.com
+www.rk.com
 www.roadandtrack.com
 www.rockstargames.com
 www.rockstarwarehouse.com
@@ -10485,6 +10678,7 @@ www.rogers.com
 www.rsload.net
 www.rt.com
 www.rtm.vint.xbox.com
+www.rule34.xxx
 www.rumble.com
 www.s.to
 www.sa-blacklist.stearns.org
@@ -10518,6 +10712,7 @@ www.semrush.com
 www.senate.gov
 www.services.medium.com
 www.sevenforums.com
+www.sexloving.net
 www.seznam.cz
 www.sheldonbrown.com
 www.shifen.com
@@ -10600,6 +10795,7 @@ www.technologyreview.com
 www.techradar.com
 www.techrepublic.com
 www.techtarget.com
+www.teenslovehugecocks.com
 www.teespring.com
 www.telegra.ph
 www.tencent.com
@@ -10616,11 +10812,13 @@ www.theguardian.com
 www.thelastofus.playstation.com
 www.themoviedb.com
 www.thepiratebay.org
+www.theporndude.com
 www.therebel.media
 www.thetvdb.com
 www.theverge.com
 www.thewindowsclub.com
 www.thewrap.com
+www.thisav.com
 www.threatcrowd.org
 www.thumbzilla.com
 www.tiktok.com
@@ -10638,6 +10836,7 @@ www.trialpay.com
 www.tribpub.com
 www.truecaller.com
 www.tuasaude.com
+www.tube8.com
 www.tucows.com
 www.tumblr.com
 www.turbobit.net
@@ -10646,6 +10845,7 @@ www.tvnow.de
 www.twitch.tv
 www.twitchy.com
 www.twitter.com
+www.txxx.com
 www.typeform.com
 www.typekit.com
 www.uc.cn
@@ -10680,11 +10880,13 @@ www.visualdictionaryonline.com
 www.visualstudio.com
 www.vitacost.com
 www.vivo.sx
+www.vixen.com
 www.vk.com
 www.vocabulary.com
 www.volksverpetzer.de
 www.voot.com
 www.vox.com
+www.vporn.com
 www.vudu.com
 www.vultr.com
 www.vulture.com
@@ -10736,17 +10938,25 @@ www.x.co
 www.xbext.com
 www.xbox.com
 www.xboxlive.com
+www.xd03.net
 www.xda-developers.com
 www.xfce.org
 www.xinhuanet.com
+www.xlovecam.com
 www.xmr.to
+www.xnxx.com
 www.xposed.info
+www.xtube.com
 www.xuite.net
+www.xvideos.com
+www.xvideosporn.top
 www.ya.com
 www.ya.ru
 www.yandex.ru
 www.yastatic.net
 www.yimg.com
+www.youjizz.com
+www.youporn.com
 www.youtube-nocookie.com
 www.youtube.com
 www.ytmnd.com
@@ -10789,6 +10999,7 @@ wx2.sinaimg.cn
 wx3.sinaimg.cn
 wx4.sinaimg.cn
 wykop.pl
+wyspagier.pl
 wywy.com
 x.co
 x.kinja-static.com
@@ -10816,6 +11027,7 @@ xdjiraintegration.adobe.com
 xfce.org
 xflight.xboxlive.com
 xflight.xboxlive.com cert.mgt.xboxlive.com
+xhamster.com
 xiami.com
 xiaomi.com
 xiaomi.net
@@ -10827,19 +11039,42 @@ xkms.xbolive.com
 xkms.xbolive.com def-vef.xboxlive.com
 xkms.xboxlive.com
 xl7xml.client.xunlei.com
+xlovecam.com
 xmcs.mi.com
 xmpp-server.l.google.com
 xmr.to
+xnxx.club
+xnxx.com
+xnxx.fit
+xnxx.kim
+xnxx.me
+xnxx.news
+xnxx.pink
+xnxx.red
+xnxx2017.org
+xnxx2018.org
+xnxxhamster.net
+xnxxporn.biz
+xnxxpornhub.space
+xnxxx.club
 xp.apple.com
 xpdll.nirsoft.net
 xperiakeyboard.sonymobile.com
 xperialounge.sonymobile.com
+xpornplease.com
 xsts.auth.xboxlive.com
 xtgem.com
+xtube.com
 xueqiu.com
 xuite.net
 xunlei.com
+xvideos.com
+xvideos.fit
+xvideosporno.blog.br
+xvxx.com
 xx.snap.com
+xxxsex.mobi
+xxxyouporn.space
 xywy.com
 y2u.be
 ya.com
@@ -10862,12 +11097,15 @@ ynuf.alipay.com
 youbora.com
 youboranqs01.com
 youdao.com
+youjizz.com
 youku.com
 youpin.mi.com
+youporn.com
 your-server.de
 youraccount.help.soundcloud.com
 yourls.org
 youronlinechoices.com
+yourporn.sexy
 youtu.be
 youtube-dl.org
 youtube-nocookie.com
@@ -10937,3 +11175,5 @@ zopim.com
 zoso.ro
 zrk.imgur.com
 zz.ee
+É¢oogle.com
+ɢoogle.com

@@ -1921,6 +1921,7 @@ blogger.com
 blogger.huffingtonpost.com
 blogger.l.google.com
 blogimgs.naver.com
+blognone.com
 blogram.net
 blogs.adobe.com
 blogs.discovermagazine.com
@@ -2631,6 +2632,7 @@ code.jquery.com
 code.mi.com
 code.tidio.co
 codeanywhere.com
+codeberg.org
 codecanyon.net
 codemasters.com
 codenvy.io
@@ -2920,6 +2922,7 @@ daisuki.net
 damengxiang.me
 danbooru.donmai.us
 dansguardian.org
+dark.fail
 dash.cloudflare.com
 dash.tmearn.com
 dashboard.jeeng.com
@@ -6490,6 +6493,7 @@ nipr.com
 nircmd.nirsoft.net
 nirsoft.net
 nitroflare.com
+nitter.net
 nj.com
 njal.la
 nk.by
@@ -8665,6 +8669,7 @@ techtarget.com
 techtunes.com.bd
 ted.com
 tedcdn.com
+teddit.net
 teenpornvideo.xxx
 teens-kitten.com
 teespring.com

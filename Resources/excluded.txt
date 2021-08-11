@@ -1352,6 +1352,7 @@ api2.diigo.com
 api2.flipboard.com
 api2.poloniex.com
 api2.weather.com
+api3.siftscience.com
 api3.weather.com
 apicache.vudu.com
 apihub.daum.net
@@ -2282,6 +2283,7 @@ cdn.segment.com
 cdn.segment.io
 cdn.shopify.com
 cdn.shortpixel.ai
+cdn.siftscience.com
 cdn.speedof.me
 cdn.sstatic.net
 cdn.staticfile.org
@@ -2360,6 +2362,7 @@ cell.office.naver.com
 ceneo.pl
 census.gov
 cert.halo.part.xbox.com
+cert.mgt.xboxlive.com
 cert.mgt.xboxlive.com
 certification.bithumb.com
 ces.engadget.com
@@ -2499,6 +2502,7 @@ chromesyncpasswords-pa.googleapis.com
 chromewhois.com
 chron.com
 chtbl.com
+ci.phncdn.com
 ci.rdtcdn.com
 ci3.googleusercontent.com
 ci4.googleusercontent.com
@@ -2868,10 +2872,12 @@ cutcaptcha.com
 cutestat.com
 cutt.ly
 cutt.us
+cv-h.phncdn.com
 cvp.twitch.tv
 cvp1.cdn.turner.com
 cvs.adobe.com
 cvs.com
+cw.phncdn.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 cy.gravatar.com
@@ -2899,6 +2905,7 @@ d2cmedia.ca
 d2gatte9o95jao.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
+d3orhvfyxudxxq.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 d4.me
 da.gravatar.com
@@ -2920,6 +2927,7 @@ dashboard.jeeng.com
 dashboard.plex.tv
 dashboard.pusher.com
 dashboard.stripe.com
+dashboard.zopim.com
 dashbox.sndcdn.com
 dashbox.soundcloud.com
 data.flurry.com
@@ -2982,6 +2990,7 @@ deck.soundcloud.com
 decknetwork.net
 dedic.naver.com
 dedipower.eu.playstation.com
+def-vef.xboxlive.com
 def-vef.xboxlive.com
 definitions.net
 dege.freeweb.hu
@@ -3544,6 +3553,7 @@ evergage.com
 everydayhealth.com
 evite.com
 ew.com
+ew.phncdn.com
 ewebdevelopment.com
 ewei.com
 ex-notify.coinbase.com
@@ -4658,6 +4668,7 @@ hub5pn.sandai.net
 hubciddata.sandai.net
 hubspot.com
 hubspot.net
+hubt.pornhub.com
 hud.gov
 huffingtonpost.co.uk
 huffingtonpost.com
@@ -5206,6 +5217,7 @@ jp.pipe.aria.microsoft.com
 jp.pool.ntp.org
 jp.techcrunch.com
 jp.wikipedia.com
+jp06.zopim.com
 jp1.p5.documentsawsperf.adobe.com
 jpdic.naver.com
 jpmigtm1.sonymobile.com
@@ -8190,6 +8202,7 @@ squarespace.com
 sr.gravatar.com
 srv1.xbext.com
 srv2.xbext.com
+ss.phncdn.com
 ss0.baidu.com
 ss1.baidu.com
 ss2.baidu.com
@@ -11025,7 +11038,7 @@ xdatools.xda-developers.com
 xdjiraintegration.adobe.com
 xfce.org
 xflight.xboxlive.com
-xflight.xboxlive.com cert.mgt.xboxlive.com
+xflight.xboxlive.com
 xhamster.com
 xiami.com
 xiaomi.com
@@ -11035,7 +11048,7 @@ xing.com
 xinhuanet.com
 xk.me
 xkms.xbolive.com
-xkms.xbolive.com def-vef.xboxlive.com
+xkms.xbolive.com
 xkms.xboxlive.com
 xl7xml.client.xunlei.com
 xlovecam.com

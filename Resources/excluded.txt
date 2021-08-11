@@ -2363,7 +2363,6 @@ ceneo.pl
 census.gov
 cert.halo.part.xbox.com
 cert.mgt.xboxlive.com
-cert.mgt.xboxlive.com
 certification.bithumb.com
 ces.engadget.com
 cex.io
@@ -2990,7 +2989,6 @@ deck.soundcloud.com
 decknetwork.net
 dedic.naver.com
 dedipower.eu.playstation.com
-def-vef.xboxlive.com
 def-vef.xboxlive.com
 definitions.net
 dege.freeweb.hu
@@ -6493,6 +6491,7 @@ nircmd.nirsoft.net
 nirsoft.net
 nitroflare.com
 nj.com
+njal.la
 nk.by
 nk.ms
 nk.pl
@@ -11038,7 +11037,6 @@ xdatools.xda-developers.com
 xdjiraintegration.adobe.com
 xfce.org
 xflight.xboxlive.com
-xflight.xboxlive.com
 xhamster.com
 xiami.com
 xiaomi.com
@@ -11047,7 +11045,6 @@ xiazai.xiaomi.com
 xing.com
 xinhuanet.com
 xk.me
-xkms.xbolive.com
 xkms.xbolive.com
 xkms.xboxlive.com
 xl7xml.client.xunlei.com

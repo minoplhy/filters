@@ -23,7 +23,6 @@ crawler.download_filters("https://filters.kylz.nl/RPZ/someonewhocares/rpz.txt" ,
 crawler.download_filters("https://urlhaus.abuse.ch/downloads/rpz/" ,incoming)
 crawler.download_filters("https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt" ,incoming)
 crawler.download_filters("https://block.energized.pro/ultimate/formats/rpz.txt" ,incoming)
-crawler.download_filters("https://mkb2091.github.io/blockconvert/output/domains.rpz" ,incoming)
 crawler.filtering(incoming)
 crawler.filteringcon(incoming)
 crawler.killingdup(incoming)

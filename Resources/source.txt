@@ -7,4 +7,3 @@ https://filters.kylz.nl/RPZ/stevenblack/f-s.txt
 https://filters.kylz.nl/RPZ/someonewhocares/rpz.txt
 https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
 https://block.energized.pro/ultimate/formats/rpz.txt
-https://mkb2091.github.io/blockconvert/output/domains.rpz

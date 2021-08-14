@@ -2291,7 +2291,6 @@ cdn.staticfile.org
 cdn.stripst.com
 cdn.stumbleupon.com
 cdn.support.sonymobile.com
-cdn.syndication.twimg.com
 cdn.teamskeetimages.com
 cdn.technologyreview.com
 cdn.theatlantic.com
@@ -3149,7 +3148,6 @@ dl.xposed.info
 dl2.files.xiaomi.net
 dl2.soft98.ir
 dldir.xiaomi.net
-dldir1.qq.com
 dlglobal.qq.com
 dlied1.qq.com
 dll.xposed.info
@@ -3787,8 +3785,6 @@ fok.nl
 fontawesome.com
 fonts-prod.adobe.com
 fonts.adobe.com
-fonts.googleapis.com
-fonts.gstatic.com
 fonts.net
 footlocker-inc.com
 footlocker.com
@@ -6922,7 +6918,6 @@ pecl.php.net
 pedr.com
 peeksoft.co
 pendo.io
-people-pa.googleapis.com
 people.com
 people.skype.com
 peppermint.samsung.com
@@ -7007,10 +7002,8 @@ placeholdit.imgix.net
 places-manager-api.snapchat.com
 platform-lookaside.fbsbx.com
 platform.bing.com
-platform.instagram.com
 platform.linkedin.com
 platform.stumbleupon.com
-platform.twitter.com
 platform.vine.co
 play-asia.com
 play.app.goo.gl

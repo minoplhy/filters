@@ -7002,7 +7002,6 @@ placeholdit.imgix.net
 places-manager-api.snapchat.com
 platform-lookaside.fbsbx.com
 platform.bing.com
-platform.linkedin.com
 platform.stumbleupon.com
 platform.vine.co
 play-asia.com

@@ -40,7 +40,14 @@ people-pa.googleapis.com
 pepodownload.mediatek.com
 pgepodownload.mediatek.com
 picanalysis.vivo.com.cn
+platform.cdninstagram.com
+platform.cf.kik.com
+platform.foursquare.com
 platform.instagram.com
+platform.kik.com
+platform.linkedin.com
+platform.meetme.com
+platform.tumblr.com
 platform.twitter.com
 ps2.gamedl.qq.com
 qbwup.imtt.qq.com

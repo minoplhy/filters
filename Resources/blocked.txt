@@ -21,6 +21,7 @@ gamedl.qq.com
 gameloop.fun
 get-express-vpn.com
 get-express-vpn.net
+get-express-vpn.online
 get-express-vpn.org
 get-express-vpn.xyz
 graph.fbpigeon.com
@@ -63,3 +64,8 @@ stun.qqlive.qq.com
 sy.gameloop.fun
 sy.guanjia.qq.com
 syzs.qq.com
+www.get-express-vpn.com
+www.get-express-vpn.net
+www.get-express-vpn.online
+www.get-express-vpn.org
+www.get-express-vpn.xyz

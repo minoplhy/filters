@@ -25,6 +25,7 @@ crawler.download_filters("https://blokada.org/mirror/v5/exodusprivacy/standard/h
 crawler.download_filters("https://rpz.oisd.nl/" ,incoming)
 crawler.download_filters("https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt" ,incoming)
 crawler.download_filters("https://github.com/crazy-max/WindowsSpyBlocker/raw/master/data/hosts/spy.txt" ,incoming)
+crawler.download_filters("https://energized.pro/extensions/xtreme/formats/rpz.txt" ,incoming)
 crawler.filtering(incoming)
 crawler.filteringcon(incoming)
 crawler.killingdup(incoming)

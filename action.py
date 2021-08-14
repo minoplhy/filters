@@ -14,15 +14,15 @@ hosts_locat = "/reprwiki/Private-build/ucate/hosts.txt"
 abp_locat = "/reprwiki/Private-build/ucate/adblock.txt"
 
 crawler.clear_old_files(incoming)
-crawler.download_filters("https://dbl.oisd.nl/" ,incoming)
 crawler.download_filters("https://badmojr.github.io/1Hosts/Pro/rpz.txt" ,incoming)
 crawler.download_filters("https://filters.kylz.nl/RPZ/adguard/cname-tracker.txt" ,incoming)
 crawler.download_filters("https://filters.kylz.nl/RPZ/adguard/cname-original.txt" ,incoming)
 crawler.download_filters("https://filters.kylz.nl/RPZ/stevenblack/f-s.txt" ,incoming)
 crawler.download_filters("https://filters.kylz.nl/RPZ/someonewhocares/rpz.txt" ,incoming)
 crawler.download_filters("https://urlhaus.abuse.ch/downloads/rpz/" ,incoming)
-crawler.download_filters("https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt" ,incoming)
 crawler.download_filters("https://block.energized.pro/ultimate/formats/rpz.txt" ,incoming)
+crawler.download_filters("https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt" ,incoming)
+crawler.download_filters("https://rpz.oisd.nl/" ,incoming)
 crawler.filtering(incoming)
 crawler.filteringcon(incoming)
 crawler.killingdup(incoming)

@@ -27,6 +27,7 @@ get-express-vpn.xyz
 graph.fbpigeon.com
 guanjia.qq.com
 in-os-config-appstore.vivoglobal.com
+incoming.telemetry.mozilla.org
 lamssettings-pa.googleapis.com
 master.etl.desktop.qq.com
 masterconn.qq.com
@@ -50,6 +51,7 @@ platform.linkedin.com
 platform.meetme.com
 platform.tumblr.com
 platform.twitter.com
+prod.telemetry.ros.rockstargames.com
 ps2.gamedl.qq.com
 qbwup.imtt.qq.com
 qepodownload.mediatek.com
@@ -64,6 +66,8 @@ stun.qqlive.qq.com
 sy.gameloop.fun
 sy.guanjia.qq.com
 syzs.qq.com
+telemetry-incoming.r53-2.services.mozilla.com
+telemetry.soundcloud.com
 www.get-express-vpn.com
 www.get-express-vpn.net
 www.get-express-vpn.online

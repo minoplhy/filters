@@ -4988,7 +4988,6 @@ inapcache.boston.com
 inbox.google.com
 inbrowserediting.adobe.com
 inc.com
-incoming.telemetry.mozilla.org
 indd.adobe.com
 indeed.com
 independent.co.uk
@@ -7185,7 +7184,6 @@ prod.p02ams.pod.rockstargames.com
 prod.realtimevc.ros.rockstargames.com
 prod.registrar.skype.com
 prod.ros.rockstargames.com
-prod.telemetry.ros.rockstargames.com
 prod6-files.acompli.net
 prodfosho.flipboard.com
 prodmg2.blob.core.windows.net
@@ -8678,8 +8676,6 @@ telegra.ph
 telegram.me
 telegram.org
 telegraph.co.uk
-telemetry-incoming.r53-2.services.mozilla.com
-telemetry.soundcloud.com
 tencent.com
 tencentgames.helpshift.com
 tenforums.com

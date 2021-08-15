@@ -51,6 +51,7 @@ platform.linkedin.com
 platform.meetme.com
 platform.tumblr.com
 platform.twitter.com
+prod.data-ingestion.prod.dataops.mozgcp.net
 prod.telemetry.ros.rockstargames.com
 ps2.gamedl.qq.com
 qbwup.imtt.qq.com

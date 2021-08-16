@@ -42,6 +42,7 @@ people-pa.googleapis.com
 pepodownload.mediatek.com
 pgepodownload.mediatek.com
 picanalysis.vivo.com.cn
+pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com
 platform.cdninstagram.com
 platform.cf.kik.com
 platform.foursquare.com

@@ -13,7 +13,7 @@ excluded = "/repros/Resources/excluded.txt"
 rpz_locat = "/reprwiki/Private-build/ucate/rpz.txt"
 hosts_locat = "/reprwiki/Private-build/ucate/hosts.txt"
 abp_locat = "/reprwiki/Private-build/ucate/adblock.txt"
-os.mkdir('/reprwiki/Private-build/ucate')
+os.mkdir('/reprwiki/Private-build/ucate',exist_ok=True)
 
 crawler.clear_old_files(incoming)
 crawler.download_filters("https://badmojr.github.io/1Hosts/Pro/rpz.txt" ,incoming)
@@ -38,7 +38,7 @@ excluded = "/repros/Resources/excluded.txt"
 rpz_locat = "/reprwiki/Private-build/veneto/rpz.txt"
 hosts_locat = "/reprwiki/Private-build/veneto/hosts.txt"
 abp_locat = "/reprwiki/Private-build/veneto/adblock.txt"
-os.mkdir('/reprwiki/Private-build/veneto')
+os.mkdir('/reprwiki/Private-build/veneto',exist_ok=True)
 
 crawler.clear_old_files(incoming)
 crawler.download_filters("https://block.energized.pro/ultimate/formats/rpz.txt" ,incoming)

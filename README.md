@@ -5,7 +5,7 @@ in the future .
 # This Project is in Very Experimental Phrase
 
 ## Available Filters
-***Note : i'm moving to all filters file to wiki***
+***Note : i currently have problem with RPZ . if file too big knot-resolver won't read all line and this will cause privacy/security issues that domain didn't get block***
 ### ucate : [domains](https://github.com/minoplhy/filters/wiki/Private-build/ucate/domains.txt) ,[rpz](https://github.com/minoplhy/filters/wiki/Private-build/ucate/rpz.txt) ,[Hosts](https://github.com/minoplhy/filters/wiki/Private-build/ucate/hosts.txt) ,[Adblock](https://github.com/minoplhy/filters/wiki/Private-build/ucate/adblock.txt)
 ### veneto : [domains](https://github.com/minoplhy/filters/wiki/Private-build/veneto/domains.txt) ,[rpz](https://github.com/minoplhy/filters/wiki/Private-build/veneto/rpz.txt) ,[Hosts](https://github.com/minoplhy/filters/wiki/Private-build/veneto/hosts.txt) ,[Adblock](https://github.com/minoplhy/filters/wiki/Private-build/veneto/adblock.txt)
 

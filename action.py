@@ -41,7 +41,6 @@ abp_locat = "/reprwiki/Private-build/veneto/adblock.txt"
 os.makedirs('/reprwiki/Private-build/veneto',exist_ok=True)
 
 crawler.clear_old_files(incoming)
-crawler.download_filters("https://block.energized.pro/ultimate/formats/rpz.txt" ,incoming)
 crawler.download_filters("https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt" ,incoming)
 crawler.download_filters("https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt" ,incoming)
 crawler.download_filters("https://github.com/crazy-max/WindowsSpyBlocker/raw/master/data/hosts/spy.txt" ,incoming)

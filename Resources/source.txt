@@ -1,4 +1,3 @@
-https://rpz.oisd.nl/
 https://badmojr.github.io/1Hosts/Pro/rpz.txt
 https://filters.kylz.nl/RPZ/stevenblack/f-s.txt
 https://filters.kylz.nl/RPZ/adguard/cname-tracker.txt

@@ -1,6 +1,7 @@
 import sys
 sys.path.append('/filters-maker')
 
+import os
 import crawler
 import maker_rpz
 import maker_domains
@@ -12,6 +13,7 @@ excluded = "/repros/Resources/excluded.txt"
 rpz_locat = "/reprwiki/Private-build/ucate/rpz.txt"
 hosts_locat = "/reprwiki/Private-build/ucate/hosts.txt"
 abp_locat = "/reprwiki/Private-build/ucate/adblock.txt"
+os.mkdir('/reprwiki/Private-build/ucate')
 
 crawler.clear_old_files(incoming)
 crawler.download_filters("https://badmojr.github.io/1Hosts/Pro/rpz.txt" ,incoming)
@@ -36,6 +38,7 @@ excluded = "/repros/Resources/excluded.txt"
 rpz_locat = "/reprwiki/Private-build/veneto/rpz.txt"
 hosts_locat = "/reprwiki/Private-build/veneto/hosts.txt"
 abp_locat = "/reprwiki/Private-build/veneto/adblock.txt"
+os.mkdir('/reprwiki/Private-build/veneto')
 
 crawler.clear_old_files(incoming)
 crawler.download_filters("https://block.energized.pro/ultimate/formats/rpz.txt" ,incoming)

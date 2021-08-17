@@ -7,6 +7,7 @@ import maker_rpz
 import maker_domains
 import maker_hosts
 import maker_abp
+import version
 
 incoming = "/reprwiki/Private-build/ucate/domains.txt"
 excluded = "/repros/Resources/excluded.txt"
@@ -55,3 +56,6 @@ maker_rpz.RPZbuilding(excluded, incoming, rpz_locat)
 maker_hosts.hostsbuilding(excluded, incoming, hosts_locat)
 maker_abp.ABPbuilding(excluded, incoming, abp_locat)
 maker_domains.domainsbuilding(excluded, incoming)
+
+version = "/repros/version.md"
+version.build(version)

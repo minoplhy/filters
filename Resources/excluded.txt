@@ -1270,6 +1270,7 @@ api.post.adobe.com
 api.preprod.vudu.com
 api.pro.coinbase.com
 api.pushbullet.com
+api.qrserver.com
 api.ra2.xlmc.sec.miui.com
 api.rapidvideo.com
 api.rebrandly.com

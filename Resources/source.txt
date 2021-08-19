@@ -5,9 +5,9 @@ https://filters.kylz.nl/RPZ/adguard/cname-tracker.txt
 https://filters.kylz.nl/RPZ/adguard/cname-original.txt
 https://filters.kylz.nl/RPZ/stevenblack/f-s.txt
 https://filters.kylz.nl/RPZ/someonewhocares/rpz.txt
+https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt
 # veneto
 https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
-https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt
 https://github.com/crazy-max/WindowsSpyBlocker/raw/master/data/hosts/spy.txt
 https://energized.pro/extensions/xtreme/formats/rpz.txt
 https://rpz.oisd.nl

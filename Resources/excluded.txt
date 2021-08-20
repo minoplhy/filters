@@ -1136,7 +1136,7 @@ api-v2.soundcloud.com
 api-widget.soundcloud.com
 api-widget.x.sndcdn.com
 api-x.sonymobile.com
-api..coinmama.com
+api.coinmama.com
 api.account.adobe.com
 api.account.xiaomi
 api.account.xiaomi.com

@@ -61,6 +61,7 @@ maker_abp.ABPbuilding(excluded, incoming, abp_locat ,Version)
 maker_domains.domainsbuilding(excluded, incoming ,Version)
                       
 excluded = "/repros/Resources/excluded.txt"
+os.makedirs('/reprwiki/Private-build/Allowlist',exist_ok=True)
 Version = "Allowlist"
 rpz_locat = "/reprwiki/Private-build/Allowlist/rpz.txt"
 abp_locat = "/reprwiki/Private-build/Allowlist/adblock.txt"

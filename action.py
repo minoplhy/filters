@@ -57,7 +57,7 @@ crawler.blankremover(incoming)
 crawler.sort(incoming)
 maker_rpz.RPZbuilding(excluded, incoming, rpz_locat ,Version)
 maker_hosts.hostsbuilding(excluded, incoming, hosts_locat ,Version)
-maker_abp.ABPbuilding(excluded, incoming, abp_locat ,Version
+maker_abp.ABPbuilding(excluded, incoming, abp_locat ,Version)
 maker_domains.domainsbuilding(excluded, incoming ,Version)
                       
 excluded = "/repros/Resources/excluded.txt"

@@ -23,13 +23,6 @@ jobs:
         GIT_EMAIL: "Hurbar@m21.kylz.nl"
         REPO_BRANCH: "master"
         BRANCH_VERSION: "main"
-    - uses: minoplhy/mass-name-change@main
-      env:
-         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-      with:
-        action_location: sub-action.py
-        Repo: minoplhy/filters
-
     - uses: "marvinpinto/action-automatic-releases@latest"
       with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"

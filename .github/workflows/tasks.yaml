@@ -23,6 +23,8 @@ jobs:
         GIT_EMAIL: "Hurbar@m21.kylz.nl"
         REPO_BRANCH: "master"
         BRANCH_VERSION: "main"
+        sub_action_location: "sub-action.py"
+        sub_action_Repo: "minoplhy/filters"
     - uses: "marvinpinto/action-automatic-releases@latest"
       with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"

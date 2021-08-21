@@ -25,11 +25,3 @@ jobs:
         BRANCH_VERSION: "main"
         sub_action_location: "sub-action.py"
         sub_action_Repo: "minoplhy/filters"
-    - uses: "marvinpinto/action-automatic-releases@latest"
-      with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          automatic_release_tag: "latest"
-          prerelease: false
-          title: "FILTERS"
-          files: |
-            /gh-releases/*

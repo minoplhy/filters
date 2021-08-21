@@ -1,7 +1,7 @@
 import os
 import sys
 
-sys.path.append('/mass-name-change')
+sys.path.append('/repros')
 import build_make
 os.makedirs('/gh-releases',exist_ok=True)
 

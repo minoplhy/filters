@@ -23,16 +23,12 @@ jobs:
         GIT_EMAIL: "Hurbar@m21.kylz.nl"
         REPO_BRANCH: "master"
         BRANCH_VERSION: "main"
-    - name: mass name changes
-      uses: minoplhy/mass-name-change@main
+    - uses: minoplhy/mass-name-change@main
       env:
          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
         action_location: sub-action.py
         Repo: minoplhy/filters
-    - name: "Makeup Releases"
-      run: |
-        echo "done!"
 
     - uses: "marvinpinto/action-automatic-releases@latest"
       with:

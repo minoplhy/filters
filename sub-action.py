@@ -1,7 +1,7 @@
 import os
 import sys
 
-sys.path.append('/repros')
+sys.path.append('/filters-maker')
 import build_make
 os.makedirs('/gh-releases',exist_ok=True)
 

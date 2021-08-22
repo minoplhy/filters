@@ -5,9 +5,10 @@ in the future .
 # This Project is in Very Experimental Phrase
 
 ## Available Filters
-### Allowlist : [domains](https://github.com/minoplhy/filters/wiki/Private-build/Allowlist/domains.txt) ,[rpz](https://github.com/minoplhy/filters/wiki/Private-build/Allowlist/rpz.txt) ,[Adblock](https://github.com/minoplhy/filters/wiki/Private-build/Allowlist/adblock.txt)
-### ucate : [domains](https://github.com/minoplhy/filters/wiki/Private-build/ucate/domains.txt) ,[rpz](https://github.com/minoplhy/filters/wiki/Private-build/ucate/rpz.txt) ,[Hosts](https://github.com/minoplhy/filters/wiki/Private-build/ucate/hosts.txt) ,[Adblock](https://github.com/minoplhy/filters/wiki/Private-build/ucate/adblock.txt)
-### veneto : [domains](https://github.com/minoplhy/filters/wiki/Private-build/veneto/domains.txt) ,[rpz](https://github.com/minoplhy/filters/wiki/Private-build/veneto/rpz.txt) ,[Hosts](https://github.com/minoplhy/filters/wiki/Private-build/veneto/hosts.txt) ,[Adblock](https://github.com/minoplhy/filters/wiki/Private-build/veneto/adblock.txt)
+### Allowlist  : [Adblock](https://github.com/minoplhy/filters/releases/download/latest/Allowlist_adblock.txt) , [Domains](https://github.com/minoplhy/filters/releases/download/latest/Allowlist_domains.txt) , [RPZ](https://github.com/minoplhy/filters/releases/download/latest/Allowlist_rpz.txt)
+### UCATE : [Adblock](https://github.com/minoplhy/filters/releases/download/latest/ucate_adblock.txt) , [Domains](https://github.com/minoplhy/filters/releases/download/latest/ucate_domains.txt) , [Hosts](https://github.com/minoplhy/filters/releases/download/latest/ucate_hosts.txt) , [RPZ](https://github.com/minoplhy/filters/releases/download/latest/ucate_rpz.txt)
+### Veneto : [Adblock](https://github.com/minoplhy/filters/releases/download/latest/Veneto_adblock.txt) , [Domains](https://github.com/minoplhy/filters/releases/download/latest/Veneto_domains.txt) , [Hosts](https://github.com/minoplhy/filters/releases/download/latest/Veneto_hosts.txt) , [RPZ](https://github.com/minoplhy/filters/releases/download/latest/Veneto_rpz.txt)
+
 
 # Question that i don't know anyone gonna ask me or not
 ***Q : Why Wiki ? Why Not Just a simple Repository***

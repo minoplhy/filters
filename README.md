@@ -3,7 +3,7 @@ This Repository contains Output of all my filters project this'll be the replace
 in the future .
 
 # This Project is in Very Experimental Phrase
-
+***NOTE : Wiki IS GOING TO DEPRECATED STATE AS WIKI IS NOT THE BEST SOLVED WAY OF THE PROBLEM SO I MIGRATE TO RELEASES INSTEAD***
 ## Available Filters
 ### Allowlist  : [Adblock](https://github.com/minoplhy/filters/releases/download/latest/Allowlist_adblock.txt) , [Domains](https://github.com/minoplhy/filters/releases/download/latest/Allowlist_domains.txt) , [RPZ](https://github.com/minoplhy/filters/releases/download/latest/Allowlist_rpz.txt)
 ### UCATE : [Adblock](https://github.com/minoplhy/filters/releases/download/latest/ucate_adblock.txt) , [Domains](https://github.com/minoplhy/filters/releases/download/latest/ucate_domains.txt) , [Hosts](https://github.com/minoplhy/filters/releases/download/latest/ucate_hosts.txt) , [RPZ](https://github.com/minoplhy/filters/releases/download/latest/ucate_rpz.txt)

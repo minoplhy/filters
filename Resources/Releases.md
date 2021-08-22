@@ -1,4 +1,3 @@
-# Filters IN Releases
 ### Allowlist  : [Adblock](https://github.com/minoplhy/filters/releases/download/latest/Allowlist_adblock.txt) , [Domains](https://github.com/minoplhy/filters/releases/download/latest/Allowlist_domains.txt) , [RPZ](https://github.com/minoplhy/filters/releases/download/latest/Allowlist_rpz.txt)
 
 ### UCATE : [Adblock](https://github.com/minoplhy/filters/releases/download/latest/ucate_adblock.txt) , [Domains](https://github.com/minoplhy/filters/releases/download/latest/ucate_domains.txt) , [Hosts](https://github.com/minoplhy/filters/releases/download/latest/ucate_hosts.txt) , [RPZ](https://github.com/minoplhy/filters/releases/download/latest/ucate_rpz.txt)

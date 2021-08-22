@@ -25,3 +25,7 @@ jobs:
         BRANCH_VERSION: "main"
         sub_action_location: "sub-action.py"
         sub_action_Repo: "minoplhy/filters"
+    - name: filters-build
+      uses: minoplhy/filters-build_actions@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}

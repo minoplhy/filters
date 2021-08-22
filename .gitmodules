@@ -1,7 +1,0 @@
-[submodule "Private-Build"]
-	path = Private-Build
-	url = https://github.com/minoplhy/filters/releases/tag/latest
-  
-[submodule "Converter-Build"]
-	path = Private-Build
-	url = https://github.com/minoplhy/filters/releases/tag/filters-build

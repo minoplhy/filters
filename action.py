@@ -3,6 +3,10 @@ sys.path.append('/filters-maker')
 
 import os
 import crawler
+import maker_rpz
+import maker_hosts
+import maker_abp
+import maker_domains
 
 incoming = "/reprwiki/Private-build/ucate/domains.txt"
 excluded = "/repros/Resources/excluded.txt"
@@ -28,13 +32,9 @@ crawler.killingdup(incoming)
 crawler.excluded(excluded, incoming)
 crawler.blankremover(incoming)
 crawler.sort(incoming)
-import maker_rpz
 maker_rpz.RPZbuilding(excluded, incoming, rpz_locat ,Version)
-import maker_hosts
 maker_hosts.hostsbuilding(excluded, incoming, hosts_locat ,Version)
-import maker_abp
 maker_abp.ABPbuilding(excluded, incoming, abp_locat ,Version)
-import maker_domains
 maker_domains.domainsbuilding(excluded, incoming ,Version)
 
 incoming = "/reprwiki/Private-build/veneto/domains.txt"

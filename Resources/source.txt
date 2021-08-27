@@ -1,10 +1,11 @@
 # ucate
 https://badmojr.github.io/1Hosts/Pro/rpz.txt
-https://filters.kylz.nl/RPZ/stevenblack/f-s.txt
-https://filters.kylz.nl/RPZ/adguard/cname-tracker.txt
-https://filters.kylz.nl/RPZ/adguard/cname-original.txt
-https://filters.kylz.nl/RPZ/stevenblack/f-s.txt
-https://filters.kylz.nl/RPZ/someonewhocares/rpz.txt
+https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-tracker_rpz.txt
+https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-original_rpz.txt
+https://github.com/minoplhy/filters/releases/download/filters-build/stevenblack-f-s_rpz.txt
+https://github.com/minoplhy/filters/releases/download/filters-build/someonewhocares_rpz.txt
+https://github.com/minoplhy/filters/releases/download/filters-build/hostsVN-all_rpz.txt
+https://github.com/minoplhy/filters/releases/download/filters-build/hosts-database-full-alive_rpz.txt
 https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt
 # veneto
 https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt

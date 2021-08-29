@@ -7,6 +7,7 @@ https://github.com/minoplhy/filters/releases/download/filters-build/someonewhoca
 https://github.com/minoplhy/filters/releases/download/filters-build/hostsVN-all_rpz.txt
 https://github.com/minoplhy/filters/releases/download/filters-build/hosts-database-full-alive_rpz.txt
 https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt
+https://urlhaus.abuse.ch/downloads/rpz/
 # veneto
 https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
 https://github.com/crazy-max/WindowsSpyBlocker/raw/master/data/hosts/spy.txt

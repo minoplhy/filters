@@ -4542,6 +4542,7 @@ express.ugc.bazaarvoice.com
 expressen.se
 extension-files.twitch.tv
 extension.nirsoft.net
+external-frt3-2.xx.fbcdn.net
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
 external-lhr10-1.xx.fbcdn.net

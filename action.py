@@ -26,6 +26,7 @@ crawler.download_filters("https://github.com/minoplhy/filters/releases/download/
 crawler.download_filters("https://github.com/minoplhy/filters/releases/download/filters-build/hosts-database-full-alive_rpz.txt" ,incoming)
 crawler.download_filters("https://urlhaus.abuse.ch/downloads/rpz/" ,incoming)
 crawler.download_filters("https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt" ,incoming)
+crawler.download_filters("https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-dns_rpz.txt" ,incoming)
 crawler.filtering(incoming)
 crawler.filteringcon(incoming)
 crawler.killingdup(incoming)

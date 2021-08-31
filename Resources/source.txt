@@ -14,3 +14,4 @@ https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
 https://github.com/crazy-max/WindowsSpyBlocker/raw/master/data/hosts/spy.txt
 https://energized.pro/extensions/xtreme/formats/rpz.txt
 https://rpz.oisd.nl
+https://github.com/jerryn70/GoodbyeAds/raw/master/Formats/GoodbyeAds-AdBlock-Filter.txt

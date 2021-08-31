@@ -8,7 +8,6 @@ https://github.com/minoplhy/filters/releases/download/filters-build/hostsVN-all_
 https://github.com/minoplhy/filters/releases/download/filters-build/hosts-database-full-alive_rpz.txt
 https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt
 https://urlhaus.abuse.ch/downloads/rpz/
-https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-dns_rpz.txt
 
 # veneto
 https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt

@@ -1,6 +1,7 @@
 0report.syzs.qq.com
 alb.reddit.com
 asia-analyzer-appstore.vivoglobal.com
+asia-comonrt-stsdk.vivoglobal.com
 asia-vcode-od.vivoglobal.com
 bodis.com
 btrace.qq.com

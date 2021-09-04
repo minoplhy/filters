@@ -8,9 +8,11 @@ https://github.com/minoplhy/filters/releases/download/filters-build/hostsVN-all_
 https://github.com/minoplhy/filters/releases/download/filters-build/hosts-database-full-alive_rpz.txt
 https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt
 https://urlhaus.abuse.ch/downloads/rpz/
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 
 # veneto
 https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
 https://github.com/crazy-max/WindowsSpyBlocker/raw/master/data/hosts/spy.txt
 https://energized.pro/extensions/xtreme/formats/rpz.txt
 https://rpz.oisd.nl
+https://block.energized.pro/ultimate/formats/rpz.txt

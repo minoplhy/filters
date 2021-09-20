@@ -295,6 +295,7 @@ a1.mzstatic.com
 a1.sndcdn.com
 a1.soundcloud.com
 a1014.g.akamai.net
+a10networks.com
 a1599.g.akamai.net
 a1767.g.akamai.net
 a1843.g.akamai.net
@@ -9650,6 +9651,7 @@ searchapi.samsung.com
 searchapi.samsung.com.edgekey.net
 searchencrypt.com
 searchenginejournal.com
+searchlab.eu
 sears.com
 seatme.yelp.com
 sec-boss.static.xiaomi.net
@@ -12097,6 +12099,7 @@ www.9anime.to
 www.9apps.com
 www.a.espncdn.com
 www.a.shifen.com
+www.a10networks.com
 www.abbreviations.com
 www.abcnews.com.co
 www.abebooks.com
@@ -13754,6 +13757,7 @@ y2u.be
 ya.com
 ya.ru
 yacy.net
+yacy.searchlab.eu
 yadi.sk
 yahoo.adnetasia.com
 yahoo.co.jp

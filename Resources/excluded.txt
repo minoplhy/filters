@@ -7968,6 +7968,7 @@ nflximg.com
 nflximg.net
 nginx.org
 ngpvan.com
+ngrok.io
 ngw-static.franklyinc.com
 nhattruyen.com
 nhaxequanghuy.com

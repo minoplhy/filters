@@ -47,6 +47,7 @@ picanalysis.vivo.com.cn
 pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com
 platform.cdninstagram.com
 platform.cf.kik.com
+platform.facebook.com
 platform.foursquare.com
 platform.instagram.com
 platform.kik.com

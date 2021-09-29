@@ -15,8 +15,8 @@ excluded = "/repros/Resources/excluded.txt"
 rpz_locat = "/reprwiki/Private-build/ucate/rpz.txt"
 hosts_locat = "/reprwiki/Private-build/ucate/hosts.txt"
 abp_locat = "/reprwiki/Private-build/ucate/adblock.txt"
-unb_locat = "/reprwiki/Private-build/ucate/unbound.conf"
-dnq_locat = "/reprwiki/Private-build/ucate/dnsmasq.conf"
+unb_locat = "/reprwiki/Private-build/ucate/unbound.conf.txt"
+dnq_locat = "/reprwiki/Private-build/ucate/dnsmasq.conf.txt"
 Version = "UCATE"
 os.makedirs('/reprwiki/Private-build/ucate',exist_ok=True)
 
@@ -49,8 +49,8 @@ excluded = "/repros/Resources/excluded.txt"
 rpz_locat = "/reprwiki/Private-build/veneto/rpz.txt"
 hosts_locat = "/reprwiki/Private-build/veneto/hosts.txt"
 abp_locat = "/reprwiki/Private-build/veneto/adblock.txt"
-unb_locat = "/reprwiki/Private-build/veneto/unbound.conf"
-dnq_locat = "/reprwiki/Private-build/veneto/dnsmasq.conf"
+unb_locat = "/reprwiki/Private-build/veneto/unbound.conf.txt"
+dnq_locat = "/reprwiki/Private-build/veneto/dnsmasq.conf.txt"
 Version = "VENETO"
 os.makedirs('/reprwiki/Private-build/veneto',exist_ok=True)
 

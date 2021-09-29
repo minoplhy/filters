@@ -40,8 +40,8 @@ crawler.sort(incoming)
 maker_rpz.RPZbuilding(excluded, incoming, rpz_locat ,Version)
 maker_hosts.hostsbuilding(excluded, incoming, hosts_locat ,Version)
 maker_abp.ABPbuilding(excluded, incoming, abp_locat ,Version)
-maker_unbound.UNBbuilding(excluded, unb_locat ,Version)
-maker_dnsmasq.DNQbuilding(excluded, dnq_locat ,Version)
+maker_unbound.UNBbuilding(excluded, incoming, unb_locat ,Version)
+maker_dnsmasq.DNQbuilding(excluded, incoming, dnq_locat ,Version)
 maker_domains.domainsbuilding(excluded, incoming ,Version)
 
 incoming = "/reprwiki/Private-build/veneto/domains.txt"
@@ -68,8 +68,8 @@ crawler.sort(incoming)
 maker_rpz.RPZbuilding(excluded, incoming, rpz_locat ,Version)
 maker_hosts.hostsbuilding(excluded, incoming, hosts_locat ,Version)
 maker_abp.ABPbuilding(excluded, incoming, abp_locat ,Version)
-maker_unbound.UNBbuilding(excluded, unb_locat ,Version)
-maker_dnsmasq.DNQbuilding(excluded, dnq_locat ,Version)
+maker_unbound.UNBbuilding(excluded, incoming, unb_locat ,Version)
+maker_dnsmasq.DNQbuilding(excluded, incoming, dnq_locat ,Version)
 maker_domains.domainsbuilding(excluded, incoming ,Version)
                       
 excluded = "/repros/Resources/excluded.txt"

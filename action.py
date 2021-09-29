@@ -7,6 +7,8 @@ import maker_rpz
 import maker_hosts
 import maker_abp
 import maker_domains
+import maker_unbound
+import maker_dnsmasq
 
 incoming = "/reprwiki/Private-build/ucate/domains.txt"
 excluded = "/repros/Resources/excluded.txt"

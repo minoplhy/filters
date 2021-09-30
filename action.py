@@ -22,6 +22,7 @@ os.makedirs('/reprwiki/Private-build/ucate',exist_ok=True)
 
 crawler.clear_old_files(incoming)
 crawler.download_filters("https://badmojr.github.io/1Hosts/Pro/rpz.txt" ,incoming)
+crawler.download_filters("https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-dns_rpz.txt" ,incoming)
 crawler.download_filters("https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-tracker_rpz.txt" ,incoming)
 crawler.download_filters("https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-original_rpz.txt" ,incoming)
 crawler.download_filters("https://github.com/minoplhy/filters/releases/download/filters-build/stevenblack-f_rpz.txt" ,incoming)

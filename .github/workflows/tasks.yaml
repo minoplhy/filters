@@ -11,25 +11,6 @@ jobs:
       uses: minoplhy/filters-build_actions@main
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-    - name: Restore the previous run result
-      uses: actions/cache@v2
-      with:
-        path: |
-          run_result
-        key: ${{ github.run_id }}-${{ github.job }}-${{ steps.timestamp.outputs.timestamp }}
-        restore-keys: |
-          ${{ github.run_id }}-${{ github.job }}-
-    - name: Get the previous run result
-      id: run_result
-      run: cat run_result 2>/dev/null || echo 'default'
-
-    - uses: actions/checkout@v2
-      if: steps.run_result.outputs.run_result != 'success'
-
-    - if: steps.run_result.outputs.run_result != 'success'
-      run: echo "I'm alive!" && exit 0
-
-    - run: echo "::set-output name=run_result::success" > run_result
     - name: build
       uses: minoplhy/filters-maker@main
       env:
@@ -47,22 +28,3 @@ jobs:
         BRANCH_VERSION: "main"
         sub_action_location: "sub-action.py"
         sub_action_Repo: "minoplhy/filters"
-    - name: Restore the previous run result
-      uses: actions/cache@v2
-      with:
-        path: |
-          run_result
-        key: ${{ github.run_id }}-${{ github.job }}-${{ steps.timestamp.outputs.timestamp }}
-        restore-keys: |
-          ${{ github.run_id }}-${{ github.job }}-
-    - name: Get the previous run result
-      id: run_result2
-      run: cat run_result 2>/dev/null || echo 'default'
-
-    - uses: actions/checkout@v2
-      if: steps.run_result.outputs.run_result2 != 'success'
-
-    - if: steps.run_result.outputs.run_result2 != 'success'
-      run: echo "I'm alive!" && exit 0
-
-    - run: echo "::set-output name=run_result::success" > run_result

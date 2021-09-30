@@ -1,5 +1,6 @@
 # ucate
 https://badmojr.github.io/1Hosts/Pro/rpz.txt
+https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-dns_rpz.txt
 https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-tracker_rpz.txt
 https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-original_rpz.txt
 https://github.com/minoplhy/filters/releases/download/filters-build/stevenblack-f_rpz.txt

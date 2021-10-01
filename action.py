@@ -20,18 +20,22 @@ dnq_locat = "/reprwiki/Private-build/ucate/dnsmasq.conf.txt"
 Version = "UCATE"
 os.makedirs('/reprwiki/Private-build/ucate',exist_ok=True)
 
+ucate_source= [
+'https://badmojr.github.io/1Hosts/Pro/rpz.txt',
+'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-dns_rpz.txt',
+'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-tracker_rpz.txt',
+'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-original_rpz.txt',
+'https://github.com/minoplhy/filters/releases/download/filters-build/stevenblack-f_rpz.txt',
+'https://github.com/minoplhy/filters/releases/download/filters-build/someonewhocares_rpz.txt',
+'https://github.com/minoplhy/filters/releases/download/filters-build/hostsVN-all_rpz.txt',
+'https://github.com/minoplhy/filters/releases/download/filters-build/hosts-database-full-alive_rpz.txt',
+'https://urlhaus.abuse.ch/downloads/rpz/',
+'https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt',
+'https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt'
+]
+
 crawler.clear_old_files(incoming)
-crawler.download_filters("https://badmojr.github.io/1Hosts/Pro/rpz.txt" ,incoming)
-crawler.download_filters("https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-dns_rpz.txt" ,incoming)
-crawler.download_filters("https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-tracker_rpz.txt" ,incoming)
-crawler.download_filters("https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-original_rpz.txt" ,incoming)
-crawler.download_filters("https://github.com/minoplhy/filters/releases/download/filters-build/stevenblack-f_rpz.txt" ,incoming)
-crawler.download_filters("https://github.com/minoplhy/filters/releases/download/filters-build/someonewhocares_rpz.txt" ,incoming)
-crawler.download_filters("https://github.com/minoplhy/filters/releases/download/filters-build/hostsVN-all_rpz.txt" ,incoming)
-crawler.download_filters("https://github.com/minoplhy/filters/releases/download/filters-build/hosts-database-full-alive_rpz.txt" ,incoming)
-crawler.download_filters("https://urlhaus.abuse.ch/downloads/rpz/" ,incoming)
-crawler.download_filters("https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt" ,incoming)
-crawler.download_filters("https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt" ,incoming)
+crawler.download_group_filters(ucate_source ,incoming)
 crawler.filtering(incoming)
 crawler.filteringcon(incoming)
 crawler.killingdup(incoming)
@@ -55,11 +59,15 @@ dnq_locat = "/reprwiki/Private-build/veneto/dnsmasq.conf.txt"
 Version = "VENETO"
 os.makedirs('/reprwiki/Private-build/veneto',exist_ok=True)
 
+veneto_source = [
+'https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt',
+'https://github.com/crazy-max/WindowsSpyBlocker/raw/master/data/hosts/spy.txt',
+'https://energized.pro/extensions/xtreme/formats/rpz.txt',
+'https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt'
+]
+
 crawler.clear_old_files(incoming)
-crawler.download_filters("https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt" ,incoming)
-crawler.download_filters("https://github.com/crazy-max/WindowsSpyBlocker/raw/master/data/hosts/spy.txt" ,incoming)
-crawler.download_filters("https://energized.pro/extensions/xtreme/formats/rpz.txt" ,incoming)
-crawler.download_filters("https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt" ,incoming)
+crawler.download_group_filters(veneto_source ,incoming)
 crawler.filtering(incoming)
 crawler.filteringcon(incoming)
 crawler.killingdup(incoming)

@@ -20,7 +20,7 @@ dnq_locat = "/reprwiki/Private-build/ucate/dnsmasq.conf.txt"
 Version = "UCATE"
 os.makedirs('/reprwiki/Private-build/ucate',exist_ok=True)
 
-ucate_source= [
+UCATE_SOURCE = [
 'https://badmojr.github.io/1Hosts/Pro/rpz.txt',
 'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-dns_rpz.txt',
 'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-tracker_rpz.txt',
@@ -59,7 +59,7 @@ dnq_locat = "/reprwiki/Private-build/veneto/dnsmasq.conf.txt"
 Version = "VENETO"
 os.makedirs('/reprwiki/Private-build/veneto',exist_ok=True)
 
-veneto_source = [
+VENETO_SOURCE = [
 'https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt',
 'https://github.com/crazy-max/WindowsSpyBlocker/raw/master/data/hosts/spy.txt',
 'https://energized.pro/extensions/xtreme/formats/rpz.txt',

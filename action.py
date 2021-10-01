@@ -35,7 +35,7 @@ UCATE_SOURCE = [
 ]
 
 crawler.clear_old_files(incoming)
-crawler.download_group_filters(ucate_source ,incoming)
+crawler.download_group_filters(UCATE_SOURCE ,incoming)
 crawler.filtering(incoming)
 crawler.filteringcon(incoming)
 crawler.killingdup(incoming)
@@ -67,7 +67,7 @@ VENETO_SOURCE = [
 ]
 
 crawler.clear_old_files(incoming)
-crawler.download_group_filters(veneto_source ,incoming)
+crawler.download_group_filters(VENETO_SOURCE ,incoming)
 crawler.filtering(incoming)
 crawler.filteringcon(incoming)
 crawler.killingdup(incoming)

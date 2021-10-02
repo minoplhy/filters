@@ -7254,6 +7254,7 @@ making.vimeo.com
 mal.ly
 malc0de.com
 mall.mi.com
+malware-check.disconnect.me
 malwaredomainlist.com
 malwaredomains.lehigh.edu
 malwareurls.joxeankoret.com

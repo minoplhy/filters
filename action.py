@@ -31,7 +31,8 @@ UCATE_SOURCE = [
 'https://github.com/minoplhy/filters/releases/download/filters-build/hosts-database-full-alive_rpz.txt',
 'https://urlhaus.abuse.ch/downloads/rpz/',
 'https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt',
-'https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt'
+'https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt',
+'https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt'
 ]
 
 crawler.clear_old_files(incoming)

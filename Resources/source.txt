@@ -10,7 +10,7 @@ https://github.com/minoplhy/filters/releases/download/filters-build/hosts-databa
 https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt
 https://urlhaus.abuse.ch/downloads/rpz/
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt
+https://github.com/DandelionSprout/adfilt/raw/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt
 
 # veneto
 https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt

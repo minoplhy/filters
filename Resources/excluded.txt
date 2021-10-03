@@ -3025,6 +3025,7 @@ cloudfront-app-cdn.spot.im
 cloudfront.net
 cloudinary.com
 cloudmail17.netcore.co.in
+cloudns.net
 cloudopenlabs.huawei.com
 cloudplatform.coveo.com
 cloudresourcemanager.googleapis.com
@@ -12340,6 +12341,7 @@ www.clien.net
 www.cliphunter.com
 www.cloudflare-dns.com
 www.cloudflare.com
+www.cloudns.net
 www.clubedohardware.com.br
 www.cms.techrepublic.com
 www.cnbc.com

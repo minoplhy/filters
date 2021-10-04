@@ -29,16 +29,16 @@ jobs:
         sub_action_location: "sub-action.py"
         sub_action_Repo: "minoplhy/filters"
   restart_when_failed:
-    name: Restarts the scheduled run when it failed
+    name: Re-Run the scheduled run when it failed
     runs-on: ubuntu-latest
     if: github.event_name == 'schedule' && failure()
     needs: [build]
     steps:
-    - name: Retry the workflow
+    - name: Re-Run the workflow
       run: |
         curl -i \
         -X POST \
         -H "Accept: application/vnd.github.v3+json" \
         -H "Authorization: token ${{ secrets.API_TOKEN_GITHUB }}" \
-        https://api.github.com/repos/minoplhy/filters/actions/workflows/11794283/dispatches \
+        https://api.github.com/repos/minoplhy/filters/actions/runs/$GITHUB_RUN_ID/rerun \
         -d '{"ref": "${{ github.ref }}" }'

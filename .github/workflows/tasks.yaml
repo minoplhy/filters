@@ -40,4 +40,5 @@ jobs:
         -X POST \
         -H "Accept: application/vnd.github.v3+json" \
         -H "Authorization: token ${{ secrets.API_TOKEN_GITHUB }}" \
-        https://api.github.com/repos/minoplhy/filters/actions/runs/$GITHUB_RUN_ID/rerun
+        https://api.github.com/repos/minoplhy/filters/actions/workflows/11794283/dispatches \
+        -d '{"ref": "${{ github.ref }}" }'

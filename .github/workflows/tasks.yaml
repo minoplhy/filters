@@ -29,7 +29,7 @@ jobs:
         sub_action_location: "sub-action.py"
         sub_action_Repo: "minoplhy/filters"
   restart_when_failed:
-    name: Re-Run the scheduled run when it failed
+    name: Dispatches run when it failed
     runs-on: ubuntu-latest
     if: failure()
     needs: [build]

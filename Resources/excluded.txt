@@ -373,6 +373,7 @@ accounts.eu1.gigya.com
 accounts.flipboard.com
 accounts.google.com
 accounts.idmapper.api.playstation.com
+accounts.logme.in
 accounts.mobisystems.com
 accounts.nvgs.nvidia.com
 accounts.pixiv.net
@@ -6919,6 +6920,7 @@ loginhood.io
 loginpoll.wechat.com
 logins.daum.net
 logitech.com
+logme.in
 logmein-gateway.com
 logmein.com
 logmeinrescue.com

@@ -3,12 +3,7 @@ sys.path.append('/filters-maker')
 
 import os
 import crawler
-import maker_rpz
-import maker_hosts
-import maker_abp
-import maker_domains
-import maker_unbound
-import maker_dnsmasq
+import maker
 
 incoming = "/reprwiki/Private-build/ucate/domains.txt"
 excluded = "/repros/Resources/excluded.txt"
@@ -44,12 +39,12 @@ crawler.IP_URL_FILTERING(incoming)
 crawler.excluded(excluded, incoming)
 crawler.blankremover(incoming)
 crawler.sort(incoming)
-maker_rpz.RPZbuilding(excluded, incoming, rpz_locat ,Version)
-maker_hosts.hostsbuilding(excluded, incoming, hosts_locat ,Version)
-maker_abp.ABPbuilding(excluded, incoming, abp_locat ,Version)
-maker_unbound.UNBbuilding(excluded, incoming, unb_locat ,Version)
-maker_dnsmasq.DNQbuilding(excluded, incoming, dnq_locat ,Version)
-maker_domains.domainsbuilding(excluded, incoming ,Version)
+maker.RPZBlocklist(excluded, incoming, rpz_locat ,Version)
+maker.HOSTBlocklist(excluded, incoming, hosts_locat ,Version)
+maker.ABPBlocklist(excluded, incoming, abp_locat ,Version)
+maker.UNBOUNDBlocklist(excluded, incoming, unb_locat ,Version)
+maker.DNSMASQBlocklist(excluded, incoming, dnq_locat ,Version)
+maker.DOMAINBlocklist(excluded, incoming ,Version)
 
 incoming = "/reprwiki/Private-build/veneto/domains.txt"
 excluded = "/repros/Resources/excluded.txt"
@@ -77,12 +72,12 @@ crawler.IP_URL_FILTERING(incoming)
 crawler.excluded(excluded, incoming)
 crawler.blankremover(incoming)
 crawler.sort(incoming)
-maker_rpz.RPZbuilding(excluded, incoming, rpz_locat ,Version)
-maker_hosts.hostsbuilding(excluded, incoming, hosts_locat ,Version)
-maker_abp.ABPbuilding(excluded, incoming, abp_locat ,Version)
-maker_unbound.UNBbuilding(excluded, incoming, unb_locat ,Version)
-maker_dnsmasq.DNQbuilding(excluded, incoming, dnq_locat ,Version)
-maker_domains.domainsbuilding(excluded, incoming ,Version)
+maker.RPZBlocklist(excluded, incoming, rpz_locat ,Version)
+maker.HOSTBlocklist(excluded, incoming, hosts_locat ,Version)
+maker.ABPBlocklist(excluded, incoming, abp_locat ,Version)
+maker.UNBOUNDBlocklist(excluded, incoming, unb_locat ,Version)
+maker.DNSMASQBlocklist(excluded, incoming, dnq_locat ,Version)
+maker.DOMAINBlocklist(excluded, incoming ,Version)
                       
 excluded = "/repros/Resources/excluded.txt"
 os.makedirs('/reprwiki/Private-build/Allowlist',exist_ok=True)
@@ -90,9 +85,9 @@ Version = "Allowlist"
 rpz_locat = "/reprwiki/Private-build/Allowlist/rpz.txt"
 abp_locat = "/reprwiki/Private-build/Allowlist/adblock.txt"
 domains_locat = "/reprwiki/Private-build/Allowlist/domains.txt"
-maker_rpz.RPZallowlist(excluded, rpz_locat ,Version)
-maker_abp.ABPallowlist(excluded, abp_locat ,Version)
-maker_domains.DMallowlist(excluded ,domains_locat ,Version)
+maker.RPZAllowlist(excluded, rpz_locat ,Version)
+maker.ABPAllowlist(excluded, abp_locat ,Version)
+maker.DOMAINAllowlist(excluded ,domains_locat ,Version)
                       
 import version
 het = "/repros/version.md"

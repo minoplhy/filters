@@ -1,11 +1,15 @@
 0report.syzs.qq.com
+a.ad.gt
+ad.gt
 alb.reddit.com
 asia-analyzer-appstore.vivoglobal.com
 asia-comonrt-stsdk.vivoglobal.com
 asia-vcode-od.vivoglobal.com
+beacon.wikia-services.com
 bodis.com
 btrace.qq.com
 c.gj.qq.com
+cdn-gl.imrworldwide.com
 cdn.syndication.twimg.com
 comingsoon.namebright.com
 config.gamedl.qq.com
@@ -14,6 +18,7 @@ downloadtpt.gamedl.qq.com
 err-up.vivoglobal.com
 excfgfile-vivofs-asia.vivo.com.cn
 expired.namebright.com
+fastly-insights.com
 footprints-pa.googleapis.com
 ga.gamedl.qq.com
 gamedl.qq.com
@@ -40,6 +45,7 @@ p2pupgrade.gamedl.qq.com
 parkingcrew.net
 people-pa.googleapis.com
 pepodownload.mediatek.com
+permutive.com
 pgepodownload.mediatek.com
 picanalysis.vivo.com.cn
 pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com
@@ -64,6 +70,7 @@ s.gameloop.fun
 s.reddit.com
 s.syzs.qq.com
 sedoparking.com
+seg.ad.gt
 stat.gamedl.qq.com
 stun.qqlive.qq.com
 sy.gameloop.fun
@@ -71,6 +78,7 @@ sy.guanjia.qq.com
 syzs.qq.com
 telemetry-incoming.r53-2.services.mozilla.com
 telemetry.soundcloud.com
+www.fastly-insights.com
 www.get-express-vpn.com
 www.get-express-vpn.net
 www.get-express-vpn.online

@@ -33,6 +33,7 @@ graph.fbpigeon.com
 guanjia.qq.com
 in-os-config-appstore.vivoglobal.com
 incoming.telemetry.mozilla.org
+innity.net
 lamssettings-pa.googleapis.com
 master.etl.desktop.qq.com
 masterconn.qq.com
@@ -71,6 +72,7 @@ s.reddit.com
 s.syzs.qq.com
 sedoparking.com
 seg.ad.gt
+ssl-avd.innity.net
 stat.gamedl.qq.com
 stun.qqlive.qq.com
 sy.gameloop.fun

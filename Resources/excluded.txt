@@ -290,6 +290,7 @@ a.sellpoint.net
 a.shifen.com
 a.stat.xiaomi.com
 a.tiles.mapbox.com
+a.tmp.ninja
 a.union.mi.com
 a1.awin1.com
 a1.mzstatic.com

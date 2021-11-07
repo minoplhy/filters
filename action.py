@@ -27,7 +27,8 @@ UCATE_SOURCE = [
 'https://urlhaus.abuse.ch/downloads/rpz/',
 'https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt',
 'https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt',
-'https://github.com/DandelionSprout/adfilt/raw/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt'
+'https://github.com/DandelionSprout/adfilt/raw/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt',
+'https://block.energized.pro/basic/formats/filter'
 ]
 
 crawler.clear_old_files(incoming)

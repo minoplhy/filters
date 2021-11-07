@@ -2137,6 +2137,7 @@ bitbucket.org
 bitcoin.com
 bitcoin.de
 bitcoin.it
+bitcoin.org
 bitfinex.com
 bitfury.com
 bithumb.com

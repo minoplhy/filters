@@ -8197,6 +8197,7 @@ oauth.tau.vk.com
 oauth.vk.com
 ob.ugc.bazaarvoice.com
 oboom.com
+obs.line-scdn.net.edgekey.net
 observer.com
 oca-api.netflix.com
 ocdn.eu

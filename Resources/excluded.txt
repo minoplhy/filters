@@ -4227,6 +4227,7 @@ edge.api.brightcove.com
 edge.pantheon.io
 edge.skype.com
 edgecastcdn.net
+edgekey.net
 edgesuite.net
 edgetipscdn.microsoft.com
 edir.ec

@@ -9,6 +9,7 @@ beacon.wikia-services.com
 bodis.com
 btrace.qq.com
 c.gj.qq.com
+ccleaner.org
 cdn-gl.imrworldwide.com
 cdn.syndication.twimg.com
 comingsoon.namebright.com

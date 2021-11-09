@@ -28,6 +28,7 @@ get-express-vpn.com
 get-express-vpn.net
 get-express-vpn.online
 get-express-vpn.org
+get-express-vpn.space
 get-express-vpn.xyz
 goat.blahdns.com
 graph.fbpigeon.com
@@ -86,4 +87,5 @@ www.get-express-vpn.com
 www.get-express-vpn.net
 www.get-express-vpn.online
 www.get-express-vpn.org
+www.get-express-vpn.space
 www.get-express-vpn.xyz

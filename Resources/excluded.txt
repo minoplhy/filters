@@ -12580,6 +12580,7 @@ www.geoplugin.net
 www.georiot.com
 www.geoserver.org
 www.ger.cdn.survey.medallia.com
+www.getmonero.org
 www.getpocket.com
 www.ghacks.net
 www.ghostbin.com

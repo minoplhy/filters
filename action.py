@@ -62,7 +62,8 @@ VENETO_SOURCE = [
 'https://energized.pro/extensions/xtreme/formats/rpz.txt',
 'https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt',
 'https://curben.gitlab.io/malware-filter/phishing-filter-agh.txt',
-'https://curben.gitlab.io/malware-filter/pup-filter-agh.txt'
+'https://curben.gitlab.io/malware-filter/pup-filter-agh.txt',
+'https://phishing.army/download/phishing_army_blocklist_extended.txt'
 ]
 
 crawler.clear_old_files(incoming)

@@ -39,6 +39,7 @@ crawler.IP_URL_FILTERING(incoming)
 crawler.excluded(excluded, incoming)
 crawler.blankremover(incoming)
 crawler.sort(incoming)
+UCATEline = maker.linecounter(incoming)
 maker.RPZBlocklist(excluded, incoming, rpz_locat ,Version)
 maker.HOSTBlocklist(excluded, incoming, hosts_locat ,Version)
 maker.ABPBlocklist(excluded, incoming, abp_locat ,Version)
@@ -75,6 +76,7 @@ crawler.IP_URL_FILTERING(incoming)
 crawler.excluded(excluded, incoming)
 crawler.blankremover(incoming)
 crawler.sort(incoming)
+VENETOline = maker.linecounter(incoming)
 maker.RPZBlocklist(excluded, incoming, rpz_locat ,Version)
 maker.HOSTBlocklist(excluded, incoming, hosts_locat ,Version)
 maker.ABPBlocklist(excluded, incoming, abp_locat ,Version)
@@ -88,10 +90,12 @@ Version = "Allowlist"
 rpz_locat = "/reprwiki/Private-build/Allowlist/rpz.txt"
 abp_locat = "/reprwiki/Private-build/Allowlist/adblock.txt"
 domains_locat = "/reprwiki/Private-build/Allowlist/domains.txt"
+ALLOWLISTline = maker.linecounter(excluded)
 maker.RPZAllowlist(excluded, rpz_locat ,Version)
 maker.ABPAllowlist(excluded, abp_locat ,Version)
 maker.DOMAINAllowlist(excluded ,domains_locat ,Version)
                       
 import version
 het = "/repros/version.md"
-version.build(het)
+addition = "\n# Rule Counter \nUCATE : " + UCATEline +"\nVeneto : " + VENETOline + "\nAllowlist : " + ALLOWLISTline
+version.build(het, addition)

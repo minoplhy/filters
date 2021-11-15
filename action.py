@@ -97,5 +97,5 @@ maker.DOMAINAllowlist(excluded ,domains_locat ,Version)
                       
 import version
 het = "/repros/version.md"
-addition = "\n# Rule Counter \nUCATE : " + UCATEline +"\nVeneto : " + VENETOline + "\nAllowlist : " + ALLOWLISTline
+addition = "\n# Rule Counter \nUCATE : " + str(UCATEline) +"\nVeneto : " + str(VENETOline) + "\nAllowlist : " + str(ALLOWLISTline)
 version.build(het, addition)

@@ -1,0 +1,5 @@
+2021-11-15 04:21:23.337257+00:00
+# Rule Counter 
+UCATE : 350059
+Veneto : 216220
+Allowlist : 13910

@@ -2,6 +2,7 @@
 a.ad.gt
 ad.gt
 alb.reddit.com
+app-measurement.com
 asia-analyzer-appstore.vivoglobal.com
 asia-comonrt-stsdk.vivoglobal.com
 asia-vcode-od.vivoglobal.com

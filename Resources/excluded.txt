@@ -1592,7 +1592,6 @@ app-api.ted.com
 app-cdn.spot.im
 app-conf.xperialounge.sonymobile.com
 app-eu.huawei.com
-app-measurement.com
 app-perms.playstation.com
 app-ru.huawei.com
 app-uk.huawei.com

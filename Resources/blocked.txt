@@ -15,6 +15,7 @@ cdn-gl.imrworldwide.com
 cdn.syndication.twimg.com
 comingsoon.namebright.com
 config.gamedl.qq.com
+d3eaoagkr70p1.cloudfront.net
 dldir1.qq.com
 downloadtpt.gamedl.qq.com
 err-up.vivoglobal.com

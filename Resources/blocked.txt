@@ -21,6 +21,7 @@ downloadtpt.gamedl.qq.com
 err-up.vivoglobal.com
 excfgfile-vivofs-asia.vivo.com.cn
 expired.namebright.com
+external.simpleanalytics.com
 fastly-insights.com
 footprints-pa.googleapis.com
 ga.gamedl.qq.com

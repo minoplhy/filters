@@ -73,7 +73,6 @@ qepodownload.mediatek.com
 qgepodownload.mediatek.com
 ro-up.vivoglobal.com
 s.gameloop.fun
-s.reddit.com
 s.syzs.qq.com
 sedoparking.com
 seg.ad.gt

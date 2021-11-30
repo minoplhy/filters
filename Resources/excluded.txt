@@ -7693,6 +7693,7 @@ ms.gravatar.com
 mscrl.microsoft.com
 msecnd.net
 msedge.api.cdp.microsoft.com
+msedge.net
 msftconnecttest.com
 msftncsi.com
 msg.edit.yahoo.com

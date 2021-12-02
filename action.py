@@ -62,7 +62,6 @@ VENETO_SOURCE = [
 'https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt',
 'https://github.com/crazy-max/WindowsSpyBlocker/raw/master/data/hosts/spy.txt',
 'https://energized.pro/extensions/xtreme/formats/rpz.txt',
-'https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt',
 'https://curben.gitlab.io/malware-filter/phishing-filter-agh.txt',
 'https://curben.gitlab.io/malware-filter/pup-filter-agh.txt',
 'https://phishing.army/download/phishing_army_blocklist_extended.txt'

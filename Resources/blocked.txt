@@ -13,6 +13,7 @@ c.gj.qq.com
 ccleaner.org
 cdn-gl.imrworldwide.com
 cdn.syndication.twimg.com
+ced.sascdn.com
 comingsoon.namebright.com
 config.gamedl.qq.com
 d3eaoagkr70p1.cloudfront.net
@@ -82,6 +83,7 @@ stun.qqlive.qq.com
 sy.gameloop.fun
 sy.guanjia.qq.com
 syzs.qq.com
+tagmanager.smartadserver.com
 telemetry-incoming.r53-2.services.mozilla.com
 telemetry.soundcloud.com
 www.fastly-insights.com

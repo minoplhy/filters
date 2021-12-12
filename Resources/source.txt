@@ -12,6 +12,9 @@ https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://github.com/DandelionSprout/adfilt/raw/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt
 https://block.energized.pro/basic/formats/filter
 https://hblock.molinero.dev/hosts_unbound.conf
+https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-Base_rpz.txt
+https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-Mobile_rpz.txt
+https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-Tracking_rpz.txt
 
 # veneto
 https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt

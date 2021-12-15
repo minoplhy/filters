@@ -77,6 +77,7 @@ s.gameloop.fun
 s.syzs.qq.com
 sedoparking.com
 seg.ad.gt
+settings-win.data.microsoft.com
 ssl-avd.innity.net
 stat.gamedl.qq.com
 stun.qqlive.qq.com

@@ -37,6 +37,7 @@ get-express-vpn.xyz
 goat.blahdns.com
 graph.fbpigeon.com
 guanjia.qq.com
+huyts.eu.org
 in-os-config-appstore.vivoglobal.com
 incoming.telemetry.mozilla.org
 innity.net
@@ -78,6 +79,7 @@ s.syzs.qq.com
 sedoparking.com
 seg.ad.gt
 settings-win.data.microsoft.com
+sewdo.eu.org
 ssl-avd.innity.net
 stat.gamedl.qq.com
 stun.qqlive.qq.com

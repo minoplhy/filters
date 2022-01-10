@@ -48,6 +48,7 @@ masterconn11.qq.com
 masterconn2.qq.com
 matomo.1984.is
 myapp.com
+p.gitjournal.io
 p2pupdate.gamedl.qq.com
 p2pupgrade.gamedl.qq.com
 parkingcrew.net

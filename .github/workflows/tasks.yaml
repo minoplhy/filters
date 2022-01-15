@@ -16,18 +16,14 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
-        Destination_NAME: "filters"
         Destination_UNAME: "minoplhy"
         Destination_REPO: "filters"
-        Destination_FOLDER: "Private-build"
         Destination_VERSION: "ucate"
         ACTION_FILE: "action.py"
         GIT_NAME: "HurBar"
         GIT_EMAIL: "hurbar@aspoblourib.1w1.one"
-        REPO_BRANCH: "master"
-        BRANCH_VERSION: "main"
+        REPO_BRANCH: "main"
         sub_action_location: "sub-action.py"
-        sub_action_Repo: "minoplhy/filters"
   restart_when_failed:
     name: Dispatches run when it failed
     runs-on: ubuntu-latest

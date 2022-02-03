@@ -9,6 +9,7 @@ asia-vcode-od.vivoglobal.com
 beacon.wikia-services.com
 bodis.com
 btrace.qq.com
+bunitu.eu.org
 c.gj.qq.com
 ccleaner.org
 cdn-gl.imrworldwide.com
@@ -37,16 +38,19 @@ get-express-vpn.xyz
 goat.blahdns.com
 graph.fbpigeon.com
 guanjia.qq.com
+hgufs.eu.org
 huyts.eu.org
 in-os-config-appstore.vivoglobal.com
 incoming.telemetry.mozilla.org
 innity.net
+kubi.one
 lamssettings-pa.googleapis.com
 master.etl.desktop.qq.com
 masterconn.qq.com
 masterconn11.qq.com
 masterconn2.qq.com
 matomo.1984.is
+mediastream1.blogspot.com
 myapp.com
 p.gitjournal.io
 p2pupdate.gamedl.qq.com
@@ -91,6 +95,7 @@ syzs.qq.com
 tagmanager.smartadserver.com
 telemetry-incoming.r53-2.services.mozilla.com
 telemetry.soundcloud.com
+tystreammovies.blogspot.com
 www.fastly-insights.com
 www.get-express-vpn.com
 www.get-express-vpn.net

@@ -1,4 +1,5 @@
 0report.syzs.qq.com
+1fd6aa.kipoks.eu.org
 89c8c1d728.bunitu.eu.org
 a.ad.gt
 ad.gt
@@ -49,6 +50,7 @@ incoming.telemetry.mozilla.org
 innity.net
 ir.shareaholic.com
 khi1.kubi.one
+kipoks.eu.org
 kubi.one
 kull.eu.org
 lamssettings-pa.googleapis.com
@@ -59,6 +61,7 @@ masterconn2.qq.com
 matomo.1984.is
 mediastream1.blogspot.com
 myapp.com
+netstream3.blogspot.com
 p.gitjournal.io
 p2pupdate.gamedl.qq.com
 p2pupgrade.gamedl.qq.com

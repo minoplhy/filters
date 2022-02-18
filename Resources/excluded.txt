@@ -4000,6 +4000,7 @@ doctorpk.mywibes.com
 documentcloud.adobe.com
 documentcloud.org
 dog.bin
+doh-fi.blahdns.com
 doh.centraleu.pi-dns.com
 doh.eastus.pi-dns.com
 doh.northeu.pi-dns.com

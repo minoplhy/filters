@@ -4,6 +4,7 @@ sys.path.append('/filters-maker')
 import os
 import crawler
 import maker
+import duplicat
 
 incoming = "/reprwiki/Private-build/ucate/domains.txt"
 excluded = "/repros/Resources/excluded.txt"
@@ -43,6 +44,7 @@ crawler.IP_URL_FILTERING(incoming)
 crawler.excluded(excluded, incoming)
 crawler.blankremover(incoming)
 crawler.sort(incoming)
+duplicat.add_file(incoming, "/reprwiki/Private-build/ruleset.txt")
 UCATEline = maker.linecounter(incoming)
 maker.RPZBlocklist(excluded, incoming, rpz_locat ,Version)
 maker.HOSTBlocklist(excluded, incoming, hosts_locat ,Version)
@@ -79,6 +81,8 @@ crawler.IP_URL_FILTERING(incoming)
 crawler.excluded(excluded, incoming)
 crawler.blankremover(incoming)
 crawler.sort(incoming)
+duplicat.check_n_kill_dupes("/reprwiki/Private-build/ruleset.txt", incoming)
+duplicat.add_file(incoming, "/reprwiki/Private-build/ruleset.txt")
 VENETOline = maker.linecounter(incoming)
 maker.RPZBlocklist(excluded, incoming, rpz_locat ,Version)
 maker.HOSTBlocklist(excluded, incoming, hosts_locat ,Version)

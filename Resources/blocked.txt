@@ -69,12 +69,7 @@ masterconn.qq.com
 masterconn11.qq.com
 masterconn2.qq.com
 matomo.1984.is
-mediastream1.blogspot.com
 myapp.com
-netstream1.blogspot.com
-netstream2.blogspot.com
-netstream3.blogspot.com
-netstream4.blogspot.com
 p.gitjournal.io
 p2pupdate.gamedl.qq.com
 p2pupgrade.gamedl.qq.com
@@ -120,7 +115,6 @@ syzs.qq.com
 tagmanager.smartadserver.com
 telemetry-incoming.r53-2.services.mozilla.com
 telemetry.soundcloud.com
-tystreammovies.blogspot.com
 utsde.eu.org
 www.fastly-insights.com
 www.get-express-vpn.com

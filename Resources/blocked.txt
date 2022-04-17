@@ -28,6 +28,8 @@ comingsoon.namebright.com
 config.gamedl.qq.com
 d1a81fc.hgufs.eu.org
 d3eaoagkr70p1.cloudfront.net
+d5ed71b86.reneg.eu.org
+dad7b08b7.onlinegeschaft.eu.org
 dldir1.qq.com
 downloadtpt.gamedl.qq.com
 dwerls.eu.org
@@ -59,6 +61,7 @@ incoming.telemetry.mozilla.org
 innity.net
 ir.shareaholic.com
 khi1.kubi.one
+khix.kubi.one
 kipoks.eu.org
 koples.eu.org
 kubi.one
@@ -70,6 +73,7 @@ masterconn11.qq.com
 masterconn2.qq.com
 matomo.1984.is
 myapp.com
+onlinegeschaft.eu.org
 p.gitjournal.io
 p2pupdate.gamedl.qq.com
 p2pupgrade.gamedl.qq.com
@@ -96,6 +100,7 @@ ps2.gamedl.qq.com
 qbwup.imtt.qq.com
 qepodownload.mediatek.com
 qgepodownload.mediatek.com
+reneg.eu.org
 ro-up.vivoglobal.com
 s.gameloop.fun
 s.syzs.qq.com

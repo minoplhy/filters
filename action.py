@@ -19,20 +19,19 @@ os.makedirs('/reprwiki/Private-build/ucate',exist_ok=True)
 UCATE_SOURCE = [
 'https://badmojr.github.io/1Hosts/Pro/rpz.txt',
 'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-dns_rpz.txt',
-'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-tracker_rpz.txt',
-'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-original_rpz.txt',
 'https://github.com/minoplhy/filters/releases/download/filters-build/stevenblack-f_rpz.txt',
 'https://github.com/minoplhy/filters/releases/download/filters-build/someonewhocares_rpz.txt',
 'https://github.com/minoplhy/filters/releases/download/filters-build/hostsVN-all_rpz.txt',
-'https://urlhaus.abuse.ch/downloads/rpz/',
 'https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt',
-'https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt',
-'https://github.com/DandelionSprout/adfilt/raw/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt',
 'https://block.energized.pro/basic/formats/filter',
 'https://hblock.molinero.dev/hosts_unbound.conf',
 'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-Base_rpz.txt',
 'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-Mobile_rpz.txt',
-'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-Tracking_rpz.txt'
+'https://github.com/yous/YousList/raw/master/youslist.txt',
+'https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt',
+'https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-2020.txt',
+'https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-2021.txt',
+'https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-2022.txt'
 ]
 
 crawler.clear_old_files(incoming)
@@ -69,7 +68,14 @@ VENETO_SOURCE = [
 'https://energized.pro/extensions/xtreme/formats/rpz.txt',
 'https://curben.gitlab.io/malware-filter/phishing-filter-agh.txt',
 'https://curben.gitlab.io/malware-filter/pup-filter-agh.txt',
-'https://phishing.army/download/phishing_army_blocklist_extended.txt'
+'https://phishing.army/download/phishing_army_blocklist_extended.txt',
+'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-Tracking_rpz.txt',
+'https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt',
+'https://github.com/DandelionSprout/adfilt/raw/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareDomains.txt',
+'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-tracker_rpz.txt',
+'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-original_rpz.txt',
+'https://urlhaus.abuse.ch/downloads/rpz/',
+'https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt'
 ]
 
 crawler.clear_old_files(incoming)

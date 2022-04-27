@@ -1,6 +1,7 @@
 *.dnsotls-ds.metric.gstatic.com
 *.gvt1.com
 *.play.googleapis.com
+.
 0-109.vk.com
 0-11-213-95.vk.com
 0-11.vk.com

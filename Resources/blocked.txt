@@ -128,6 +128,7 @@ syzs.qq.com
 tagmanager.smartadserver.com
 telemetry-incoming.r53-2.services.mozilla.com
 telemetry.soundcloud.com
+umami.doge.rs
 utsde.eu.org
 www.fastly-insights.com
 www.get-express-vpn.com

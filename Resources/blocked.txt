@@ -116,6 +116,7 @@ settings-win.data.microsoft.com
 sewdo.eu.org
 shareaholic.com
 sora.0127006.xyz
+sora.0127007.xyz
 sora.yue.sh
 srx.khicdn.one
 ssl-avd.innity.net

@@ -12,7 +12,7 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
     - name: build
-      uses: minoplhy/filters-maker@v1.0.8
+      uses: minoplhy/filters-maker@v1.0.9
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:

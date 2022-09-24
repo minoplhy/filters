@@ -75,7 +75,8 @@ VENETO_SOURCE = [
 'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-tracker_rpz.txt',
 'https://github.com/minoplhy/filters/releases/download/filters-build/Adguard-cname-original_rpz.txt',
 'https://urlhaus.abuse.ch/downloads/rpz/',
-'https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt'
+'https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt',
+'https://github.com/mitchellkrogza/Phishing.Database/raw/master/phishing-domains-ACTIVE.txt'
 ]
 
 crawler.clear_old_files(incoming)

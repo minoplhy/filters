@@ -10075,6 +10075,7 @@ sonyselect-api.sonymobile.com
 soporte.latam.playstation.com
 sorelintl.ugc.bazaarvoice.com
 sos-ch-dk-2.exo.io
+sos-ch-gva-2.exo.io
 soso.com
 soundcaptcha.naver.com
 soundcheck.soundcloud.com

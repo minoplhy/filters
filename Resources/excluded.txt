@@ -1359,6 +1359,7 @@ api.browser.intl.miui.com
 api.browser.miui.com
 api.brs.intl.miui.com
 api.bufferapp.com
+api.c99.nl
 api.calendar.intl.miui.com
 api.cdp.microsoft.com
 api.chat.xiaomi.net

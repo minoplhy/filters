@@ -3130,6 +3130,7 @@ color.typekit.com
 colorlib.com
 coloros.com
 columbia.edu
+com
 com-verification.id
 com.biblio.vk.com
 com.cloudflare-dns.com

@@ -79,6 +79,7 @@ masterconn.qq.com
 masterconn11.qq.com
 masterconn2.qq.com
 matomo.1984.is
+matomo.1fire.de
 myapp.com
 nnab4.cc
 nnzf1.cc

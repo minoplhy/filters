@@ -64,6 +64,7 @@ huyts.eu.org
 in-os-config-appstore.vivoglobal.com
 incoming.telemetry.mozilla.org
 innity.net
+insights.direct-on.nl
 ir.shareaholic.com
 jumpy.za.com
 khi1.kubi.one

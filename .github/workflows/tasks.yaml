@@ -21,7 +21,7 @@ jobs:
         Destination_VERSION: "ucate"
         ACTION_FILE: "action.py"
         GIT_NAME: "HurBar"
-        GIT_EMAIL: "hurbar@aspoblourib.1w1.one"
+        GIT_EMAIL: "hubr@3qx.nl"
         REPO_BRANCH: "main"
         sub_action_location: "sub-action.py"
   restart_when_failed:

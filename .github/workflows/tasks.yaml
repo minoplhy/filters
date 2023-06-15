@@ -1,7 +1,7 @@
 name: Tasks
 on:
-  # schedule:
-  # - cron: '0 */8 * * *'
+ schedule:
+   - cron: '0 */8 * * *'
   workflow_dispatch:
 jobs:
   build:
@@ -12,7 +12,7 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
     - name: build
-      uses: minoplhy/filters-maker@v1.0.11
+      uses: minoplhy/filters-maker@v1.1.0
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:

@@ -4721,6 +4721,7 @@ fiplabcdn.com
 fir.im
 firebaseio.com
 firebaseremoteconfig.googleapis.com
+firebasestorage.googleapis.com
 firefox.settings.services.mozilla.com
 firstlook.org
 firstpost.com
